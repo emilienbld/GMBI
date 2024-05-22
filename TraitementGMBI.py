@@ -32,10 +32,10 @@ nom_fichier_GMBI = '1_157000019_01_240226_100714_V2024.csv'  # Nom du fichier GM
 nom_fichier_G2GAI = 'DGFIP_2023_2024_ain.csv'  # Nom du fichier G2GAI
 nom_fichier_abandon = 'Domanial partie.csv'  # Nom du fichier des logemsnts en abandons G2GAI
 # Nom des fichiers en sortie
-nom_nouveau_fichier = "5.1TROISIEME " + nom_fichier_GMBI  # Fichier qui sera complet dans le dossier "rendu" ! pas besoin de créer le fichier
-nom_G2GAI_non_trouve = '5.1TROISIEME Ain G2GAI Reste.csv'  # Nom du fichier où les lignes de G2GAI n'ont pas été traité à la fin ! pas besoin de créer le fichier
-nom_GMBI_non_trouve = '5.1TROISIEME Ain GMBI Reste.csv'  # Nom du fichier où les lignes de GMBI n'ont pas été traité à la fin ! pas besoin de créer le fichier
-nom_abandon_non_trouve = '5.1TROISIEME Ain Abandon Reste.csv'
+nom_nouveau_fichier = "6.1 TROISIEME " + nom_fichier_GMBI  # Fichier qui sera complet dans le dossier "rendu" ! pas besoin de créer le fichier
+nom_G2GAI_non_trouve = '6.1 TROISIEME Ain G2GAI Reste.csv'  # Nom du fichier où les lignes de G2GAI n'ont pas été traité à la fin ! pas besoin de créer le fichier
+nom_GMBI_non_trouve = '6.1 TROISIEME Ain GMBI Reste.csv'  # Nom du fichier où les lignes de GMBI n'ont pas été traité à la fin ! pas besoin de créer le fichier
+nom_abandon_non_trouve = '6.1 TROISIEME Ain Abandon Reste.csv'
 
 # # TESTE SUR TOUS LES LOGEMENTS
 # # Noms des fichiers en entée
@@ -43,10 +43,10 @@ nom_abandon_non_trouve = '5.1TROISIEME Ain Abandon Reste.csv'
 # nom_fichier_G2GAI = 'DGFIP_2022_2023_2024.csv'  # Nom du fichier G2GAI
 # nom_fichier_abandon = 'Domanial partie.csv'  # Nom du fichier des logemsnts en abandons G2GAI
 # # Nom des fichiers en sortie
-# nom_nouveau_fichier = "6 TROISIEME " + nom_fichier_GMBI  # Fichier qui sera complet dans le dossier "rendu" ! pas besoin de créer le fichier
-# nom_G2GAI_non_trouve = '6 TROISIEME G2GAI Reste.csv'  # Nom du fichier où les lignes de G2GAI n'ont pas été traité à la fin ! pas besoin de créer le fichier
-# nom_GMBI_non_trouve = '6 TROISIEME GMBI Reste.csv'  # Nom du fichier où les lignes de GMBI n'ont pas été traité à la fin ! pas besoin de créer le fichier
-# nom_abandon_non_trouve = '6 TROISIEME Abandon Reste.csv'
+# nom_nouveau_fichier = "6.1 TROISIEME " + nom_fichier_GMBI  # Fichier qui sera complet dans le dossier "rendu" ! pas besoin de créer le fichier
+# nom_G2GAI_non_trouve = '6.1 TROISIEME G2GAI Reste.csv'  # Nom du fichier où les lignes de G2GAI n'ont pas été traité à la fin ! pas besoin de créer le fichier
+# nom_GMBI_non_trouve = '6.1 TROISIEME GMBI Reste.csv'  # Nom du fichier où les lignes de GMBI n'ont pas été traité à la fin ! pas besoin de créer le fichier
+# nom_abandon_non_trouve = '6.1 TROISIEME Abandon Reste.csv'
 
 # # TESTE PARTI
 # # Noms des fichiers en entée
@@ -235,21 +235,46 @@ def traiter_correspondance_adresse(adresse_G2GAI_caracteres, adresse_GMBI, valeu
             # Traitement de la correspondance
             departement_local_GMBI, numero_fiscal_GMBI, spi1_nom_GMBI, spi1_prenom_GMBI = informations_logement_GMBI(ligne_GMBI)
 
-            if verifier_date_arrivee(ligne_GMBI, date_arrivee) and verifier_vacance_occupation(ligne_GMBI):
+            if ligne_GMBI[33:44] != [""] * 11 :
 
-                # nouvelle_ligne = creer_nouvelle_ligne(ligne_GMBI)
+                if verifier_date_arrivee(ligne_GMBI, date_arrivee) and verifier_vacance_occupation(ligne_GMBI):
+
+                    # nouvelle_ligne = creer_nouvelle_ligne(ligne_GMBI)
+                    nouvelle_ligne = ligne_GMBI[:]  # A ENLEVER
+                    nouvelle_ligne[0] = " test 3 Adresse Supprime PP"  # A ENLEVER
+                    nouvelle_ligne[46] = date_depart  # Mettre la date de départ pour spi_1
+                    # Vérifier s'il y a quelqu'un en Spi_2 pour mettre une date de départ
+                    if nouvelle_ligne[49].strip() != '':
+                        nouvelle_ligne[60] = date_depart  # Mettre la date de départ pour spi_2
+
+                    determiner_type_occupation(nouvelle_ligne, numero_logement_G2GAI)
+                    nouvelle_ligne[64] = numero_logement_G2GAI + adresse_G2GAI_caracteres  # A ENLEVER
+                    ecrire_ligne_csv(nouveau_fichier, nouvelle_ligne)
+
+                    nouvelle_ligne[0] = "test 3Adresse Ajout PP"  # A ENLEVER
+                    nouvelle_ligne[35] = nom_courant_G2GAI  # Mettre le Nom du nouveau gendarme
+                    # premier_prenom_courant_G2GAI = prenom_courant_G2GAI.split(' ')[0]
+                    nouvelle_ligne[37] = premier_prenom_courant_G2GAI  # Mettre le Prénom du nouveau gendarme
+                    nouvelle_ligne[38] = date_naissance_courante  # Mettre la Date de naissaince du nouveau gendarme
+
+                    # Appel de la pour remplire la ligne en fonction de la vacance ou non et remplisage de la cellule observation
+                    determiner_type_occupation(nouvelle_ligne, numero_logement_G2GAI)
+                    nouvelle_ligne[64] = numero_logement_G2GAI + adresse_G2GAI_caracteres  # A ENLEVER
+                    nouvelle_ligne[45] = date_arrivee  # Mettre la date d'arrivée pour Spi_1
+
+                    # Vider le Spi_2
+                    nouvelle_ligne[46:61] = [""] * 15  # Vider toutes les données du Spi_2
+                    ecrire_ligne_csv(nouveau_fichier, nouvelle_ligne)
+
+                    valeurs_gmbi_traitees.add(numero_fiscal_GMBI)
+                    valeurs_g2gai_traitees.add(numero_logement_G2GAI)
+
+                else:
+                    ajouter_gendarme_cause(nouveau_fichier, ligne_GMBI, nom_courant_G2GAI, premier_prenom_courant_G2GAI, date_naissance_courante, numero_logement_G2GAI, date_arrivee, valeurs_gmbi_traitees, valeurs_g2gai_traitees)
+
+            else:
                 nouvelle_ligne = ligne_GMBI[:]  # A ENLEVER
-                nouvelle_ligne[0] = "Adresse Supprime PP"  # A ENLEVER
-                nouvelle_ligne[46] = date_depart  # Mettre la date de départ pour spi_1
-                # Vérifier s'il y a quelqu'un en Spi_2 pour mettre une date de départ
-                if nouvelle_ligne[49].strip() != '':
-                    nouvelle_ligne[60] = date_depart  # Mettre la date de départ pour spi_2
-
-                determiner_type_occupation(nouvelle_ligne, numero_logement_G2GAI)
-                nouvelle_ligne[64] = numero_logement_G2GAI + adresse_G2GAI_caracteres  # A ENLEVER
-                ecrire_ligne_csv(nouveau_fichier, nouvelle_ligne)
-
-                nouvelle_ligne[0] = "Adresse Ajout PP"  # A ENLEVER
+                nouvelle_ligne[0] = "test 3 Adresse Ajout PP"  # A ENLEVER
                 nouvelle_ligne[35] = nom_courant_G2GAI  # Mettre le Nom du nouveau gendarme
                 # premier_prenom_courant_G2GAI = prenom_courant_G2GAI.split(' ')[0]
                 nouvelle_ligne[37] = premier_prenom_courant_G2GAI  # Mettre le Prénom du nouveau gendarme
@@ -258,12 +283,7 @@ def traiter_correspondance_adresse(adresse_G2GAI_caracteres, adresse_GMBI, valeu
                 # Appel de la pour remplire la ligne en fonction de la vacance ou non et remplisage de la cellule observation
                 determiner_type_occupation(nouvelle_ligne, numero_logement_G2GAI)
                 nouvelle_ligne[64] = numero_logement_G2GAI + adresse_G2GAI_caracteres  # A ENLEVER
-
-                # CHANGER L'ID SPI
                 nouvelle_ligne[45] = date_arrivee  # Mettre la date d'arrivée pour Spi_1
-
-                # Vider l'Id Spi_1
-                # nouvelle_ligne[34] = ""  # Suppression de l'Id (dans la version 2023-2024 iln'y en a pas)
 
                 # Vider le Spi_2
                 nouvelle_ligne[46:61] = [""] * 15  # Vider toutes les données du Spi_2
@@ -271,9 +291,6 @@ def traiter_correspondance_adresse(adresse_G2GAI_caracteres, adresse_GMBI, valeu
 
                 valeurs_gmbi_traitees.add(numero_fiscal_GMBI)
                 valeurs_g2gai_traitees.add(numero_logement_G2GAI)
-
-            else:
-                ajouter_gendarme_cause(nouveau_fichier, ligne_GMBI, nom_courant_G2GAI, premier_prenom_courant_G2GAI, date_naissance_courante, numero_logement_G2GAI, date_arrivee, valeurs_gmbi_traitees, valeurs_g2gai_traitees)
 
             for ligne_GMBI in donnees_fichierGMBI:
                 
@@ -285,22 +302,47 @@ def traiter_correspondance_adresse(adresse_G2GAI_caracteres, adresse_GMBI, valeu
                         ligne_GMBI[2] not in valeurs_gmbi_traitees and
                         numero_fiscal_GMBI == ligne_GMBI[3]):
 
-                        if verifier_date_arrivee(ligne_GMBI, date_arrivee) and verifier_vacance_occupation(ligne_GMBI):
+                        if ligne_GMBI[33:44] != [""] * 11 :
 
-                            # nouvelle_ligne = creer_nouvelle_ligne(ligne_GMBI)
+                            if verifier_date_arrivee(ligne_GMBI, date_arrivee) and verifier_vacance_occupation(ligne_GMBI):
+
+                                # nouvelle_ligne = creer_nouvelle_ligne(ligne_GMBI)
+                                nouvelle_ligne = ligne_GMBI[:]  # A ENLEVER
+
+                                nouvelle_ligne[0] = "test Adresse Supprime L"  # A ENLEVER
+                                nouvelle_ligne[46] = date_depart  # Mettre la date de départ pour spi_1
+                                # Vérifier s'il y a quelqu'un en Spi_2 pour mettre une date de départ
+                                if nouvelle_ligne[49].strip() != '':
+                                    nouvelle_ligne[60] = date_depart  # Mettre la date de départ pour spi_2
+
+                                determiner_type_occupation(nouvelle_ligne, numero_logement_G2GAI)
+                                nouvelle_ligne[64] = numero_logement_G2GAI + adresse_G2GAI_caracteres  # A ENLEVER
+
+                                ecrire_ligne_csv(nouveau_fichier, nouvelle_ligne)
+
+                                nouvelle_ligne[0] = "test Adresse Ajout L"  # A ENLEVER
+                                nouvelle_ligne[35] = nom_courant_G2GAI  # Mettre le Nom du nouveau gendarme
+                                # premier_prenom_courant_G2GAI = prenom_courant_G2GAI.split(' ')[0]
+                                nouvelle_ligne[37] = premier_prenom_courant_G2GAI  # Mettre le Prénom du nouveau gendarme
+                                nouvelle_ligne[38] = date_naissance_courante  # Mettre la Date de naissaince du nouveau gendarme
+
+                                # Appel de la pour remplire la ligne en fonction de la vacance ou non et remplisage de la cellule observation
+                                determiner_type_occupation(nouvelle_ligne, numero_logement_G2GAI)
+                                nouvelle_ligne[64] = numero_logement_G2GAI + adresse_G2GAI_caracteres  # A ENLEVER
+                                nouvelle_ligne[45] = date_arrivee  # Mettre la date d'arrivée pour Spi_1
+
+                                # Vider le Spi_2
+                                nouvelle_ligne[46:61] = [""] * 15  # Vider toutes les données du Spi_2
+                                ecrire_ligne_csv(nouveau_fichier, nouvelle_ligne)
+
+                                valeurs_gmbi_traitees.add(ligne_GMBI[2])  # Ajouter la ligne de GMBI à celles déjà traité
+
+                            else:
+                                ajouter_gendarme_cause(nouveau_fichier, ligne_GMBI, nom_courant_G2GAI, premier_prenom_courant_G2GAI, date_naissance_courante, numero_logement_G2GAI, date_arrivee, valeurs_gmbi_traitees, valeurs_g2gai_traitees)
+
+                        else:
                             nouvelle_ligne = ligne_GMBI[:]  # A ENLEVER
-                            nouvelle_ligne[0] = "Adresse Supprime L"  # A ENLEVER
-                            nouvelle_ligne[46] = date_depart  # Mettre la date de départ pour spi_1
-                            # Vérifier s'il y a quelqu'un en Spi_2 pour mettre une date de départ
-                            if nouvelle_ligne[49].strip() != '':
-                                nouvelle_ligne[60] = date_depart  # Mettre la date de départ pour spi_2
-
-                            determiner_type_occupation(nouvelle_ligne, numero_logement_G2GAI)
-                            nouvelle_ligne[64] = numero_logement_G2GAI + adresse_G2GAI_caracteres  # A ENLEVER
-
-                            ecrire_ligne_csv(nouveau_fichier, nouvelle_ligne)
-
-                            nouvelle_ligne[0] = "Adresse Ajout L"  # A ENLEVER
+                            nouvelle_ligne[0] = "test Adresse Ajout L"  # A ENLEVER
                             nouvelle_ligne[35] = nom_courant_G2GAI  # Mettre le Nom du nouveau gendarme
                             # premier_prenom_courant_G2GAI = prenom_courant_G2GAI.split(' ')[0]
                             nouvelle_ligne[37] = premier_prenom_courant_G2GAI  # Mettre le Prénom du nouveau gendarme
@@ -309,12 +351,7 @@ def traiter_correspondance_adresse(adresse_G2GAI_caracteres, adresse_GMBI, valeu
                             # Appel de la pour remplire la ligne en fonction de la vacance ou non et remplisage de la cellule observation
                             determiner_type_occupation(nouvelle_ligne, numero_logement_G2GAI)
                             nouvelle_ligne[64] = numero_logement_G2GAI + adresse_G2GAI_caracteres  # A ENLEVER
-
-                            # CHANGER L'ID SPI
                             nouvelle_ligne[45] = date_arrivee  # Mettre la date d'arrivée pour Spi_1
-
-                            # Vider l'Id Spi_1
-                            # nouvelle_ligne[34] = ""  # Suppression de l'Id (dans la version 2023-2024 iln'y en a pas)
 
                             # Vider le Spi_2
                             nouvelle_ligne[46:61] = [""] * 15  # Vider toutes les données du Spi_2
@@ -322,30 +359,54 @@ def traiter_correspondance_adresse(adresse_G2GAI_caracteres, adresse_GMBI, valeu
 
                             valeurs_gmbi_traitees.add(ligne_GMBI[2])  # Ajouter la ligne de GMBI à celles déjà traité
 
-                        else:
-                            ajouter_gendarme_cause(nouveau_fichier, ligne_GMBI, nom_courant_G2GAI, premier_prenom_courant_G2GAI, date_naissance_courante, numero_logement_G2GAI, date_arrivee, valeurs_gmbi_traitees, valeurs_g2gai_traitees)
 
                 if spi1_nom_GMBI and spi1_prenom_GMBI:
                     if (departement_local_GMBI == ligne_GMBI[4] and
                         ligne_GMBI[2] not in valeurs_gmbi_traitees and
                         spi1_nom_GMBI in ligne_GMBI and 
                         spi1_prenom_GMBI in ligne_GMBI):
-                        if verifier_date_arrivee(ligne_GMBI, date_arrivee) and verifier_vacance_occupation(ligne_GMBI):
-                            # nouvelle_ligne = creer_nouvelle_ligne(ligne_GMBI)
+
+                        if ligne_GMBI[33:44] != [""] * 11 :
+
+                            if verifier_date_arrivee(ligne_GMBI, date_arrivee) and verifier_vacance_occupation(ligne_GMBI):
+                                # nouvelle_ligne = creer_nouvelle_ligne(ligne_GMBI)
+                                nouvelle_ligne = ligne_GMBI[:]  # A ENLEVER
+
+                                nouvelle_ligne[0] = "test 2 Local avec adresse Suprimme"  # A ENLEVER
+                                nouvelle_ligne[3] = numero_fiscal_GMBI
+                                nouvelle_ligne[46] = date_depart  # Mettre la date de départ pour spi_1
+                                # Vérifier s'il y a quelqu'un en Spi_2 pour mettre une date de départ
+                                if nouvelle_ligne[49].strip() != '':
+                                    nouvelle_ligne[60] = date_depart  # Mettre la date de départ pour spi_2
+
+                                determiner_type_occupation(nouvelle_ligne, numero_logement_G2GAI)
+                                nouvelle_ligne[64] = numero_logement_G2GAI + adresse_G2GAI_caracteres  # A ENLEVER
+
+                                ecrire_ligne_csv(nouveau_fichier, nouvelle_ligne)
+
+                                nouvelle_ligne[0] = "test 2 Local avec adresse Ajout"  # A ENLEVER
+                                nouvelle_ligne[35] = nom_courant_G2GAI  # Mettre le Nom du nouveau gendarme
+                                # premier_prenom_courant_G2GAI = prenom_courant_G2GAI.split(' ')[0]
+                                nouvelle_ligne[37] = premier_prenom_courant_G2GAI  # Mettre le Prénom du nouveau gendarme
+                                nouvelle_ligne[38] = date_naissance_courante  # Mettre la Date de naissaince du nouveau gendarme
+
+                                # Appel de la pour remplire la ligne en fonction de la vacance ou non et remplisage de la cellule observation
+                                determiner_type_occupation(nouvelle_ligne, numero_logement_G2GAI)
+                                nouvelle_ligne[64] = numero_logement_G2GAI + adresse_G2GAI_caracteres  # A ENLEVER
+                                nouvelle_ligne[45] = date_arrivee  # Mettre la date d'arrivée pour Spi_1
+
+                                # Vider le Spi_2
+                                nouvelle_ligne[46:61] = [""] * 15  # Vider toutes les données du Spi_2
+                                ecrire_ligne_csv(nouveau_fichier, nouvelle_ligne)
+
+                                valeurs_gmbi_traitees.add(ligne_GMBI[2])  # Ajouter la ligne de GMBI à celles déjà traité
+
+                            else:
+                                ajouter_gendarme_cause(nouveau_fichier, ligne_GMBI, nom_courant_G2GAI, premier_prenom_courant_G2GAI, date_naissance_courante, numero_logement_G2GAI, date_arrivee, valeurs_gmbi_traitees, valeurs_g2gai_traitees)
+
+                        else:
                             nouvelle_ligne = ligne_GMBI[:]  # A ENLEVER
-                            nouvelle_ligne[0] = "Local avec adresse Suprimme"  # A ENLEVER
-                            nouvelle_ligne[3] = numero_fiscal_GMBI
-                            nouvelle_ligne[46] = date_depart  # Mettre la date de départ pour spi_1
-                            # Vérifier s'il y a quelqu'un en Spi_2 pour mettre une date de départ
-                            if nouvelle_ligne[49].strip() != '':
-                                nouvelle_ligne[60] = date_depart  # Mettre la date de départ pour spi_2
-
-                            determiner_type_occupation(nouvelle_ligne, numero_logement_G2GAI)
-                            nouvelle_ligne[64] = numero_logement_G2GAI + adresse_G2GAI_caracteres  # A ENLEVER
-
-                            ecrire_ligne_csv(nouveau_fichier, nouvelle_ligne)
-
-                            nouvelle_ligne[0] = "Local avec adresse Ajout"  # A ENLEVER
+                            nouvelle_ligne[0] = "test 2 Local avec adresse Ajout"  # A ENLEVER
                             nouvelle_ligne[35] = nom_courant_G2GAI  # Mettre le Nom du nouveau gendarme
                             # premier_prenom_courant_G2GAI = prenom_courant_G2GAI.split(' ')[0]
                             nouvelle_ligne[37] = premier_prenom_courant_G2GAI  # Mettre le Prénom du nouveau gendarme
@@ -354,12 +415,7 @@ def traiter_correspondance_adresse(adresse_G2GAI_caracteres, adresse_GMBI, valeu
                             # Appel de la pour remplire la ligne en fonction de la vacance ou non et remplisage de la cellule observation
                             determiner_type_occupation(nouvelle_ligne, numero_logement_G2GAI)
                             nouvelle_ligne[64] = numero_logement_G2GAI + adresse_G2GAI_caracteres  # A ENLEVER
-
-                            # CHANGER L'ID SPI
                             nouvelle_ligne[45] = date_arrivee  # Mettre la date d'arrivée pour Spi_1
-
-                            # Vider l'Id Spi_1
-                            # nouvelle_ligne[34] = ""  # Suppression de l'Id (dans la version 2023-2024 iln'y en a pas)
 
                             # Vider le Spi_2
                             nouvelle_ligne[46:61] = [""] * 15  # Vider toutes les données du Spi_2
@@ -367,8 +423,6 @@ def traiter_correspondance_adresse(adresse_G2GAI_caracteres, adresse_GMBI, valeu
 
                             valeurs_gmbi_traitees.add(ligne_GMBI[2])  # Ajouter la ligne de GMBI à celles déjà traité
 
-                        else:
-                            ajouter_gendarme_cause(nouveau_fichier, ligne_GMBI, nom_courant_G2GAI, premier_prenom_courant_G2GAI, date_naissance_courante, numero_logement_G2GAI, date_arrivee, valeurs_gmbi_traitees, valeurs_g2gai_traitees)
 
 # Fonction qui vérifie si le département est de la Corse pour le convertir comme écrit dans le fichier GMBI
 def convertir_code_departement_corse(departement):
@@ -404,18 +458,22 @@ def ajouter_gendarme_cause(nouveau_fichier, ligne_GMBI, nom_courant_G2GAI, premi
     valeurs_g2gai_traitees.add(numero_logement_G2GAI)
 
 # Écriture des lignes si la ligne est déclarée comme vacante et occupée ou vacante deux fois
+# def verifier_vacance_occupation(ligne):
+#     # Vérifier si la cellule en indice 45 est présente et si la date est inférieure à date_arrivee
+#     if ligne[44].strip() != '':
+#         if ligne[49].strip() == '' and ligne[58].strip() == '':
+#             return True
+#         return False
+#     # return True
+#     else:
+#         if ligne[35].strip() != '':
+#             if ligne[58].strip() == '':
+#                 return True
+#         return False
 def verifier_vacance_occupation(ligne):
-    # Vérifier si la cellule en indice 45 est présente et si la date est inférieure à date_arrivee
-    if ligne[44].strip() != '':
-        if ligne[49].strip() == '' and ligne[58].strip() == '':
-            return True
-        return False
-    # return True
-    else:
-        if ligne[35].strip() != '':
-            if ligne[58].strip() == '':
-                return True
-        return False
+    if ligne[33].strip() != '' and ((ligne[44].strip() != '' and ligne[49].strip() == '' and ligne[58].strip() == '') or (ligne[44].strip() == '' and ligne[35].strip() != '' and ligne[58].strip() == '')):
+        return True
+    return False
 
 # Fonction pour convertir les caractères spéciaux en nornaux (EX : Ÿ -> Y)
 def convertir_caracteres_speciaux(chaine):
