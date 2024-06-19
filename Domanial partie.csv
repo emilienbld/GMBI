@@ -1,0 +1,2375 @@
+LOG_Code;UI_Code;ADR_Num;ADR_Libelle;ADR_CodePo;ADR_CommPo
+1 010 0008 001 001;1 010 0008;21;Poyat;1600;Trevoux
+1 010 0008 002 001;1 010 0008;21;Poyat;1600;Trevoux
+1 010 0008 002 002;1 010 0008;21;Poyat;1600;Trevoux
+1 010 0008 002 003;1 010 0008;21;Poyat;1600;Trevoux
+1 010 0008 002 004;1 010 0008;21;Poyat;1600;Trevoux
+1 010 0008 002 005;1 010 0008;21;Poyat;1600;Trevoux
+1 010 0008 002 006;1 010 0008;21;Poyat;1600;Trevoux
+1 010 0008 002 007;1 010 0008;21;Poyat;1600;Trevoux
+1 010 0008 002 008;1 010 0008;21;Poyat;1600;Trevoux
+1 010 0008 002 009;1 010 0008;21;Poyat;1600;Trevoux
+1 010 0008 002 010;1 010 0008;21;Poyat;1600;Trevoux
+1 010 0008 002 011;1 010 0008;21;Poyat;1600;Trevoux
+1 010 0008 002 012;1 010 0008;21;Poyat;1600;Trevoux
+1 010 0008 002 013;1 010 0008;21;Poyat;1600;Trevoux
+1 010 0008 002 014;1 010 0008;21;Poyat;1600;Trevoux
+1 010 0008 002 015;1 010 0008;21;Poyat;1600;Trevoux
+1 010 0008 002 016;1 010 0008;21;Poyat;1600;Trevoux
+1 030 0021 001 001;1 030 0021;;33 rue du chevau fug;3100;Montlucon
+1 030 0021 001 002;1 030 0021;;33 rue du chevau fug;3100;Montlucon
+1 030 0021 001 003;1 030 0021;;33 rue du chevau fug;3100;Montlucon
+1 030 0021 001 004;1 030 0021;;33 rue du chevau fug;3100;Montlucon
+1 030 0021 001 005;1 030 0021;;33 rue du chevau fug;3100;Montlucon
+1 030 0021 001 006;1 030 0021;;33 rue du chevau fug;3100;Montlucon
+1 030 0021 001 007;1 030 0021;;33 rue du chevau fug;3100;Montlucon
+1 030 0021 001 008;1 030 0021;;33 rue du chevau fug;3100;Montlucon
+1 030 0021 001 009;1 030 0021;;33 rue du chevau fug;3100;Montlucon
+1 030 0021 001 010;1 030 0021;;33 rue du chevau fug;3100;Montlucon
+1 030 0021 001 011;1 030 0021;;33 rue du chevau fug;3100;Montlucon
+1 030 0021 001 012;1 030 0021;;33 rue du chevau fug;3100;Montlucon
+1 030 0021 001 013;1 030 0021;;33 rue du chevau fug;3100;Montlucon
+1 030 0021 001 014;1 030 0021;;33 rue du chevau fug;3100;Montlucon
+1 030 0021 001 015;1 030 0021;;33 rue du chevau fug;3100;Montlucon
+1 030 0021 001 016;1 030 0021;;33 rue du chevau fug;3100;Montlucon
+1 030 0021 001 017;1 030 0021;;33 rue du chevau fug;3100;Montlucon
+1 030 0021 001 018;1 030 0021;;33 rue du chevau fug;3100;Montlucon
+1 030 0021 001 019;1 030 0021;;33 rue du chevau fug;3100;Montlucon
+1 030 0021 001 020;1 030 0021;;33 rue du chevau fug;3100;Montlucon
+1 030 0021 001 021;1 030 0021;;33 rue du chevau fug;3100;Montlucon
+1 030 0021 001 022;1 030 0021;;33 rue du chevau fug;3100;Montlucon
+1 030 0021 001 023;1 030 0021;;33 rue du chevau fug;3100;Montlucon
+1 030 0021 001 024;1 030 0021;;33 rue du chevau fug;3100;Montlucon
+1 030 0021 001 025;1 030 0021;;33 rue du chevau fug;3100;Montlucon
+1 030 0021 002 001;1 030 0021;;33 rue du chevau fug;3100;Montlucon
+1 030 0021 002 002;1 030 0021;;33 rue du chevau fug;3100;Montlucon
+1 030 0021 002 003;1 030 0021;;33 rue du chevau fug;3100;Montlucon
+1 030 0021 002 004;1 030 0021;;33 rue du chevau fug;3100;Montlucon
+1 030 0021 002 005;1 030 0021;;33 rue du chevau fug;3100;Montlucon
+1 030 0021 002 006;1 030 0021;;33 rue du chevau fug;3100;Montlucon
+1 030 0021 002 007;1 030 0021;;33 rue du chevau fug;3100;Montlucon
+1 030 0021 002 008;1 030 0021;;33 rue du chevau fug;3100;Montlucon
+1 030 0021 002 009;1 030 0021;;33 rue du chevau fug;3100;Montlucon
+1 030 0021 002 010;1 030 0021;;33 rue du chevau fug;3100;Montlucon
+1 030 0021 003 001;1 030 0021;;33 rue du chevau fug;3100;Montlucon
+1 050 0005 001 004;1 050 0005;;montgenevre la praya;5100;Montgenevre
+1 050 0005 001 005;1 050 0005;;montgenevre la praya;5100;Montgenevre
+1 050 0005 001 006;1 050 0005;;montgenevre la praya;5100;Montgenevre
+1 050 0005 001 007;1 050 0005;;montgenevre la praya;5100;Montgenevre
+1 050 0005 001 008;1 050 0005;;montgenevre la praya;5100;Montgenevre
+1 050 0005 001 009;1 050 0005;;montgenevre la praya;5100;Montgenevre
+1 060 0762 001 001;1 060 0762;;IMMEUBLE GENDARMERIE;6000;Nice
+1 060 0762 001 002;1 060 0762;;IMMEUBLE GENDARMERIE;6000;Nice
+1 060 0762 001 003;1 060 0762;;IMMEUBLE GENDARMERIE;6000;Nice
+1 060 0762 001 004;1 060 0762;;IMMEUBLE GENDARMERIE;6000;Nice
+1 060 0762 001 005;1 060 0762;;IMMEUBLE GENDARMERIE;6000;Nice
+1 060 0762 001 006;1 060 0762;;IMMEUBLE GENDARMERIE;6000;Nice
+1 060 0762 002 007;1 060 0762;;IMMEUBLE GENDARMERIE;6000;Nice
+1 060 0762 002 008;1 060 0762;;IMMEUBLE GENDARMERIE;6000;Nice
+1 060 0762 002 009;1 060 0762;;IMMEUBLE GENDARMERIE;6000;Nice
+1 060 0762 002 010;1 060 0762;;IMMEUBLE GENDARMERIE;6000;Nice
+1 060 0762 002 011;1 060 0762;;IMMEUBLE GENDARMERIE;6000;Nice
+1 060 0762 002 012;1 060 0762;;IMMEUBLE GENDARMERIE;6000;Nice
+1 060 0762 003 013;1 060 0762;;IMMEUBLE GENDARMERIE;6000;Nice
+1 060 0762 003 014;1 060 0762;;IMMEUBLE GENDARMERIE;6000;Nice
+1 060 0762 003 018;1 060 0762;;IMMEUBLE GENDARMERIE;6000;Nice
+1 060 0762 004 019;1 060 0762;;IMMEUBLE GENDARMERIE;6000;Nice
+1 060 0762 004 020;1 060 0762;;IMMEUBLE GENDARMERIE;6000;Nice
+1 060 0762 004 021;1 060 0762;;IMMEUBLE GENDARMERIE;6000;Nice
+1 060 0762 004 022;1 060 0762;;IMMEUBLE GENDARMERIE;6000;Nice
+1 060 0762 004 023;1 060 0762;;IMMEUBLE GENDARMERIE;6000;Nice
+1 060 0762 004 024;1 060 0762;;IMMEUBLE GENDARMERIE;6000;Nice
+1 060 0762 005 027;1 060 0762;;IMMEUBLE GENDARMERIE;6000;Nice
+1 060 0762 005 028;1 060 0762;;IMMEUBLE GENDARMERIE;6000;Nice
+1 060 0762 005 029;1 060 0762;;IMMEUBLE GENDARMERIE;6000;Nice
+1 060 0762 005 030;1 060 0762;;IMMEUBLE GENDARMERIE;6000;Nice
+1 090 0058 001 001;1 090 0058;;rte toulouse;9700;Saverdun
+1 090 0058 001 002;1 090 0058;;rte toulouse;9700;Saverdun
+1 090 0058 001 003;1 090 0058;;rte toulouse;9700;Saverdun
+1 090 0058 001 004;1 090 0058;;rte toulouse;9700;Saverdun
+1 090 0058 001 005;1 090 0058;;rte toulouse;9700;Saverdun
+1 090 0058 001 006;1 090 0058;;rte toulouse;9700;Saverdun
+1 090 0058 001 007;1 090 0058;;rte toulouse;9700;Saverdun
+1 120 0450 001 001;1 120 0450;;pl louis fontanges;12200;Villefranche-de-Rouergue
+1 120 0450 001 002;1 120 0450;;pl louis fontanges;12200;Villefranche-de-Rouergue
+1 120 0450 001 003;1 120 0450;;pl louis fontanges;12200;Villefranche-de-Rouergue
+1 120 0450 001 005;1 120 0450;;pl louis fontanges;12200;Villefranche-de-Rouergue
+1 120 0450 001 006;1 120 0450;;pl louis fontanges;12200;Villefranche-de-Rouergue
+1 120 0450 001 007;1 120 0450;;pl louis fontanges;12200;Villefranche-de-Rouergue
+1 120 0450 001 008;1 120 0450;;pl louis fontanges;12200;Villefranche-de-Rouergue
+1 120 0450 001 009;1 120 0450;;pl louis fontanges;12200;Villefranche-de-Rouergue
+1 120 0450 001 010;1 120 0450;;pl louis fontanges;12200;Villefranche-de-Rouergue
+1 120 0450 001 011;1 120 0450;;pl louis fontanges;12200;Villefranche-de-Rouergue
+1 120 0450 001 013;1 120 0450;;pl louis fontanges;12200;Villefranche-de-Rouergue
+1 120 0450 001 014;1 120 0450;;pl louis fontanges;12200;Villefranche-de-Rouergue
+1 120 0450 001 015;1 120 0450;;pl louis fontanges;12200;Villefranche-de-Rouergue
+1 120 0450 001 016;1 120 0450;;pl louis fontanges;12200;Villefranche-de-Rouergue
+1 120 0450 002 001;1 120 0450;;pl louis fontanges;12200;Villefranche-de-Rouergue
+1 130 0023 004 001;1 130 0023;;74 rue du dr leon perrin;13003;Marseille
+1 130 0023 004 002;1 130 0023;;74 rue du dr leon perrin;13003;Marseille
+1 130 0023 004 003;1 130 0023;;74 rue du dr leon perrin;13003;Marseille
+1 130 0023 004 004;1 130 0023;;74 rue du dr leon perrin;13003;Marseille
+1 130 0023 004 005;1 130 0023;;74 rue du dr leon perrin;13003;Marseille
+1 130 0023 005 001;1 130 0023;;74 rue du dr leon perrin;13003;Marseille
+1 130 0056 001 003;1 130 0056;;91 bd de plombieres;13003;Marseille 3e  Arrondissement
+1 130 0056 001 004;1 130 0056;;91 bd de plombieres;13003;Marseille 3e  Arrondissement
+1 130 0056 001 005;1 130 0056;;91 bd de plombieres;13003;Marseille 3e  Arrondissement
+1 130 0056 001 006;1 130 0056;;91 bd de plombieres;13003;Marseille 3e  Arrondissement
+1 130 0056 001 008;1 130 0056;;91 bd de plombieres;13003;Marseille 3e  Arrondissement
+1 130 0056 001 009;1 130 0056;;91 bd de plombieres;13003;Marseille 3e  Arrondissement
+1 130 0056 001 010;1 130 0056;;91 bd de plombieres;13003;Marseille 3e  Arrondissement
+1 130 0056 001 011;1 130 0056;;91 bd de plombieres;13003;Marseille 3e  Arrondissement
+1 130 0056 001 012;1 130 0056;;91 bd de plombieres;13003;Marseille 3e  Arrondissement
+1 130 0056 001 013;1 130 0056;;91 bd de plombieres;13003;Marseille 3e  Arrondissement
+1 130 0056 001 014;1 130 0056;;91 bd de plombieres;13003;Marseille 3e  Arrondissement
+1 130 0056 001 015;1 130 0056;;91 bd de plombieres;13003;Marseille 3e  Arrondissement
+1 130 0056 001 016;1 130 0056;;91 bd de plombieres;13003;Marseille 3e  Arrondissement
+1 130 0056 001 017;1 130 0056;;91 bd de plombieres;13003;Marseille 3e  Arrondissement
+1 130 0056 001 018;1 130 0056;;91 bd de plombieres;13003;Marseille 3e  Arrondissement
+1 130 0056 001 019;1 130 0056;;91 bd de plombieres;13003;Marseille 3e  Arrondissement
+1 130 0056 001 020;1 130 0056;;91 bd de plombieres;13003;Marseille 3e  Arrondissement
+1 130 0056 001 021;1 130 0056;;91 bd de plombieres;13003;Marseille 3e  Arrondissement
+1 130 0056 001 022;1 130 0056;;91 bd de plombieres;13003;Marseille 3e  Arrondissement
+1 130 0056 001 023;1 130 0056;;91 bd de plombieres;13003;Marseille 3e  Arrondissement
+1 130 0056 001 024;1 130 0056;;91 bd de plombieres;13003;Marseille 3e  Arrondissement
+1 130 0056 001 025;1 130 0056;;91 bd de plombieres;13003;Marseille 3e  Arrondissement
+1 130 0056 001 026;1 130 0056;;91 bd de plombieres;13003;Marseille 3e  Arrondissement
+1 130 0056 001 027;1 130 0056;;91 bd de plombieres;13003;Marseille 3e  Arrondissement
+1 130 0056 001 028;1 130 0056;;91 bd de plombieres;13003;Marseille 3e  Arrondissement
+1 130 0056 001 029;1 130 0056;;91 bd de plombieres;13003;Marseille 3e  Arrondissement
+1 130 0056 001 030;1 130 0056;;91 bd de plombieres;13003;Marseille 3e  Arrondissement
+1 130 0056 001 031;1 130 0056;;91 bd de plombieres;13003;Marseille 3e  Arrondissement
+1 130 0056 001 032;1 130 0056;;91 bd de plombieres;13003;Marseille 3e  Arrondissement
+1 130 0056 001 033;1 130 0056;;91 bd de plombieres;13003;Marseille 3e  Arrondissement
+1 130 0056 001 034;1 130 0056;;91 bd de plombieres;13003;Marseille 3e  Arrondissement
+1 130 0056 001 035;1 130 0056;;91 bd de plombieres;13003;Marseille 3e  Arrondissement
+1 130 0056 002 001;1 130 0056;;91 bd de plombieres;13003;Marseille 3e  Arrondissement
+1 130 0056 002 002;1 130 0056;;91 bd de plombieres;13003;Marseille 3e  Arrondissement
+1 130 0056 002 003;1 130 0056;;91 bd de plombieres;13003;Marseille 3e  Arrondissement
+1 130 0056 002 004;1 130 0056;;91 bd de plombieres;13003;Marseille 3e  Arrondissement
+1 130 0056 002 005;1 130 0056;;91 bd de plombieres;13003;Marseille 3e  Arrondissement
+1 130 0056 002 006;1 130 0056;;91 bd de plombieres;13003;Marseille 3e  Arrondissement
+1 130 0056 002 007;1 130 0056;;91 bd de plombieres;13003;Marseille 3e  Arrondissement
+1 130 0056 002 008;1 130 0056;;91 bd de plombieres;13003;Marseille 3e  Arrondissement
+1 130 0056 002 009;1 130 0056;;91 bd de plombieres;13003;Marseille 3e  Arrondissement
+1 130 0056 002 010;1 130 0056;;91 bd de plombieres;13003;Marseille 3e  Arrondissement
+1 130 0056 002 011;1 130 0056;;91 bd de plombieres;13003;Marseille 3e  Arrondissement
+1 130 0056 002 012;1 130 0056;;91 bd de plombieres;13003;Marseille 3e  Arrondissement
+1 130 0056 002 013;1 130 0056;;91 bd de plombieres;13003;Marseille 3e  Arrondissement
+1 130 0056 002 014;1 130 0056;;91 bd de plombieres;13003;Marseille 3e  Arrondissement
+1 130 0056 002 015;1 130 0056;;91 bd de plombieres;13003;Marseille 3e  Arrondissement
+1 130 0056 002 016;1 130 0056;;91 bd de plombieres;13003;Marseille 3e  Arrondissement
+1 130 0056 002 017;1 130 0056;;91 bd de plombieres;13003;Marseille 3e  Arrondissement
+1 130 0056 002 018;1 130 0056;;91 bd de plombieres;13003;Marseille 3e  Arrondissement
+1 130 0056 002 019;1 130 0056;;91 bd de plombieres;13003;Marseille 3e  Arrondissement
+1 130 0056 002 020;1 130 0056;;91 bd de plombieres;13003;Marseille 3e  Arrondissement
+1 130 1045 001 001;1 130 1045;;residence Couperigne;13127;Vitrolles
+1 160 0419 001 001;1 160 0419;;38 rue de l'Arsenal;16000;Angoul?me
+1 170 0003 001 001;1 170 0003;8;de Strasbourg;17340;Chetelaillon-Plage
+1 170 0003 001 002;1 170 0003;8;de Strasbourg;17340;Chetelaillon-Plage
+1 170 0003 001 003;1 170 0003;8;de Strasbourg;17340;Chetelaillon-Plage
+1 170 0003 001 004;1 170 0003;8;de Strasbourg;17340;Chetelaillon-Plage
+1 170 0003 001 005;1 170 0003;8;de Strasbourg;17340;Chetelaillon-Plage
+1 170 0003 001 006;1 170 0003;8;de Strasbourg;17340;Chetelaillon-Plage
+1 170 0003 005 008;1 170 0003;8;de Strasbourg;17340;Chetelaillon-Plage
+1 170 0003 005 009;1 170 0003;8;de Strasbourg;17340;Chetelaillon-Plage
+1 180 0079 001 001;1 180 0079;;rte nle 140;18380;La Chapelle-d'Angillon
+1 180 0079 001 002;1 180 0079;;rte nle 140;18380;La Chapelle-d'Angillon
+1 180 0079 001 003;1 180 0079;;rte nle 140;18380;La Chapelle-d'Angillon
+1 180 0079 001 004;1 180 0079;;rte nle 140;18380;La Chapelle-d'Angillon
+1 180 0079 001 005;1 180 0079;;rte nle 140;18380;La Chapelle-d'Angillon
+1 180 0079 001 006;1 180 0079;;rte nle 140;18380;La Chapelle-d'Angillon
+1 190 0063 001 001;1 190 0063;; avenue ventadour;19000;Tulle
+1 220 0040 001 001;1 220 0040;30;Felix Couteau/des Promenades;22150;Plouguenast
+1 220 0040 002 002;1 220 0040;30;Felix Couteau/des Promenades;22150;Plouguenast
+1 220 0040 002 003;1 220 0040;30;Felix Couteau/des Promenades;22150;Plouguenast
+1 220 0040 003 004;1 220 0040;30;Felix Couteau/des Promenades;22150;Plouguenast
+1 220 0040 003 005;1 220 0040;30;Felix Couteau/des Promenades;22150;Plouguenast
+1 220 0040 009 007;1 220 0040;30;Felix Couteau/des Promenades;22150;Plouguenast
+1 220 0400 001 001;1 220 0400;;14 rue Theodore Botrel;;Dinan
+1 220 0400 001 002;1 220 0400;;14 rue Theodore Botrel;;Dinan
+1 220 0400 001 003;1 220 0400;;14 rue Theodore Botrel;;Dinan
+1 220 0400 001 004;1 220 0400;;14 rue Theodore Botrel;;Dinan
+1 220 0400 001 005;1 220 0400;;14 rue Theodore Botrel;;Dinan
+1 220 0400 001 006;1 220 0400;;14 rue Theodore Botrel;;Dinan
+1 230 0001 004 001;1 230 0001;;Pierre d'Aubusson;23400;Bourganeuf
+1 240 0079 001 001;1 240 0079;10; EUGENE LE ROY;24800;Thiviers
+1 240 0079 001 002;1 240 0079;10; EUGENE LE ROY;24800;Thiviers
+1 240 0079 001 003;1 240 0079;10; EUGENE LE ROY;24800;Thiviers
+1 240 0079 001 004;1 240 0079;10; EUGENE LE ROY;24800;Thiviers
+1 240 0079 001 005;1 240 0079;10; EUGENE LE ROY;24800;Thiviers
+1 240 0079 001 006;1 240 0079;10; EUGENE LE ROY;24800;Thiviers
+1 240 0079 001 007;1 240 0079;10; EUGENE LE ROY;24800;Thiviers
+1 240 0079 001 008;1 240 0079;10; EUGENE LE ROY;24800;Thiviers
+1 240 0079 001 009;1 240 0079;10; EUGENE LE ROY;24800;Thiviers
+1 270 0387 001 001;1 270 0387;;quartier fieschi;27200;Vernon
+1 290 0100 001 001;1 290 0100;15;de l'Harteloire;29200;Brest
+1 290 0100 001 002;1 290 0100;15;de l'Harteloire;29200;Brest
+1 290 0100 001 003;1 290 0100;15;de l'Harteloire;29200;Brest
+1 290 0100 001 004;1 290 0100;15;de l'Harteloire;29200;Brest
+1 290 0100 001 005;1 290 0100;15;de l'Harteloire;29200;Brest
+1 290 0100 001 006;1 290 0100;15;de l'Harteloire;29200;Brest
+1 290 0100 001 009;1 290 0100;15;de l'Harteloire;29200;Brest
+1 290 0100 001 010;1 290 0100;15;de l'Harteloire;29200;Brest
+1 290 0100 001 011;1 290 0100;15;de l'Harteloire;29200;Brest
+1 290 0100 001 012;1 290 0100;15;de l'Harteloire;29200;Brest
+1 290 0100 002 001;1 290 0100;15;de l'Harteloire;29200;Brest
+1 290 0100 002 002;1 290 0100;15;de l'Harteloire;29200;Brest
+1 290 0100 002 003;1 290 0100;15;de l'Harteloire;29200;Brest
+1 290 0100 002 004;1 290 0100;15;de l'Harteloire;29200;Brest
+1 290 0100 002 005;1 290 0100;15;de l'Harteloire;29200;Brest
+1 290 0100 002 006;1 290 0100;15;de l'Harteloire;29200;Brest
+1 290 0100 002 007;1 290 0100;15;de l'Harteloire;29200;Brest
+1 290 0100 002 008;1 290 0100;15;de l'Harteloire;29200;Brest
+1 290 0100 002 009;1 290 0100;15;de l'Harteloire;29200;Brest
+1 290 0100 002 010;1 290 0100;15;de l'Harteloire;29200;Brest
+1 290 0100 002 011;1 290 0100;15;de l'Harteloire;29200;Brest
+1 290 0100 002 012;1 290 0100;15;de l'Harteloire;29200;Brest
+1 290 0100 002 013;1 290 0100;15;de l'Harteloire;29200;Brest
+1 290 0100 002 014;1 290 0100;15;de l'Harteloire;29200;Brest
+1 290 0100 002 015;1 290 0100;15;de l'Harteloire;29200;Brest
+1 290 0100 002 016;1 290 0100;15;de l'Harteloire;29200;Brest
+1 290 0100 003 001;1 290 0100;15;de l'Harteloire;29200;Brest
+1 290 1142 001 001;1 290 1142;;400 Route de l'aeroport;29490;Guipavas
+1 310 0041 003 001;1 310 0041;;12 r roquemaurel (ex.sea);;Toulouse
+1 330 0888 036 003;1 330 0888;;15 pl joffre bp 2013;33500;Libourne
+1 330 0888 036 008;1 330 0888;;15 pl joffre bp 2013;33500;Libourne
+1 330 0888 036 010;1 330 0888;;15 pl joffre bp 2013;33500;Libourne
+1 330 0888 036 011;1 330 0888;;15 pl joffre bp 2013;33500;Libourne
+1 330 0888 036 012;1 330 0888;;15 pl joffre bp 2013;33500;Libourne
+1 330 0888 036 014;1 330 0888;;15 pl joffre bp 2013;33500;Libourne
+1 330 0888 036 015;1 330 0888;;15 pl joffre bp 2013;33500;Libourne
+1 330 0888 036 103;1 330 0888;;15 pl joffre bp 2013;33500;Libourne
+1 330 0888 036 104;1 330 0888;;15 pl joffre bp 2013;33500;Libourne
+1 330 0888 036 106;1 330 0888;;15 pl joffre bp 2013;33500;Libourne
+1 330 0888 036 107;1 330 0888;;15 pl joffre bp 2013;33500;Libourne
+1 330 0888 036 108;1 330 0888;;15 pl joffre bp 2013;33500;Libourne
+1 330 0888 036 109;1 330 0888;;15 pl joffre bp 2013;33500;Libourne
+1 330 0888 036 110;1 330 0888;;15 pl joffre bp 2013;33500;Libourne
+1 330 0888 036 111;1 330 0888;;15 pl joffre bp 2013;33500;Libourne
+1 330 0888 036 113;1 330 0888;;15 pl joffre bp 2013;33500;Libourne
+1 330 0888 036 114;1 330 0888;;15 pl joffre bp 2013;33500;Libourne
+1 340 1035 001 001;1 340 1035;;Mas Aldebert - logement 16 f;34130;Mauguio
+1 340 1040 001 001;1 340 1040;;Mas Aldebert - logement 16 e;34130;Mauguio
+1 350 0095 001 001;1 350 0095;;44 rue d'Antrain;35250;Saint-Aubin-d'Aubigne
+1 350 0095 001 002;1 350 0095;;44 rue d'Antrain;35250;Saint-Aubin-d'Aubigne
+1 350 0095 001 003;1 350 0095;;44 rue d'Antrain;35250;Saint-Aubin-d'Aubigne
+1 350 0095 002 004;1 350 0095;;44 rue d'Antrain;35250;Saint-Aubin-d'Aubigne
+1 350 0095 002 005;1 350 0095;;44 rue d'Antrain;35250;Saint-Aubin-d'Aubigne
+1 350 0984 001 001;1 350 0984;;26 Rue Louis Rossel;35136;Saint-Jacques-de-la-Lande
+1 350 0986 001 001;1 350 0986;;47 rue MARTIN LUTHER KING;35136;Saint-Jacques-de-la-Lande
+1 360 0007 001 001;1 360 0007;;2 rte de chateauroux;36500;Buzancais
+1 360 0007 001 002;1 360 0007;;2 rte de chateauroux;36500;Buzancais
+1 360 0007 001 003;1 360 0007;;2 rte de chateauroux;36500;Buzancais
+1 360 0007 001 004;1 360 0007;;2 rte de chateauroux;36500;Buzancais
+1 360 0007 001 005;1 360 0007;;2 rte de chateauroux;36500;Buzancais
+1 360 0007 001 006;1 360 0007;;2 rte de chateauroux;36500;Buzancais
+1 360 0007 001 007;1 360 0007;;2 rte de chateauroux;36500;Buzancais
+1 360 0007 001 008;1 360 0007;;2 rte de chateauroux;36500;Buzancais
+1 360 0007 001 009;1 360 0007;;2 rte de chateauroux;36500;Buzancais
+1 360 0007 001 010;1 360 0007;;2 rte de chateauroux;36500;Buzancais
+1 360 0600 003 001;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 003 002;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 003 003;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 003 004;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 003 006;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 003 007;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 003 008;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 003 009;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 003 010;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 003 011;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 003 012;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 003 013;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 003 014;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 003 015;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 003 016;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 003 017;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 003 019;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 003 020;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 003 021;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 003 022;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 003 023;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 003 024;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 003 025;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 003 026;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 003 027;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 003 028;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 003 029;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 003 030;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 003 031;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 003 032;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 008 076;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 008 077;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 008 078;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 008 079;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 008 080;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 008 081;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 008 082;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 008 083;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 008 084;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 008 085;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 008 086;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 008 087;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 008 088;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 008 089;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 008 090;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 008 091;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 008 092;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 008 093;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 008 094;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 008 095;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 008 096;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 008 097;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 008 098;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 008 099;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 008 100;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 008 101;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 008 102;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 008 103;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 008 104;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 008 105;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 009 106;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 009 107;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 009 108;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 009 109;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 009 110;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 009 111;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 009 112;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 009 113;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 009 114;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 009 115;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 009 116;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 009 117;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 009 118;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 009 119;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 009 120;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 009 121;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 009 122;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 009 123;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 009 124;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 009 125;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 009 126;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 009 127;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 009 128;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 009 129;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 009 130;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 009 131;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 750 001;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 750 002;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 750 003;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 750 004;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 750 005;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 750 006;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 750 007;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 750 008;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 750 009;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 750 010;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 750 011;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 750 012;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 750 013;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 750 014;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 750 015;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 750 016;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 750 017;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 750 018;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 750 019;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 750 020;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 750 021;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 750 022;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 750 023;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 750 024;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 750 025;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 750 026;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 750 027;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 750 028;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 750 029;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 750 030;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 750 031;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 750 032;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 750 033;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 750 034;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 750 035;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 750 036;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 750 037;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 750 038;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 750 039;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 751 040;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 751 041;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 751 042;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 751 043;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 751 044;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 751 045;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 751 046;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 751 047;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 751 048;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 751 049;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 751 050;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 751 051;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 751 052;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 751 053;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 751 054;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 751 055;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 751 056;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 751 057;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 751 058;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 751 059;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 751 060;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 751 061;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 751 062;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 751 063;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 751 064;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 751 065;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 751 066;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 751 067;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 751 068;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 751 069;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 751 070;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 751 071;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 751 072;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 751 073;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 751 074;1 360 0600;7;Charlier;36000;Cheteauroux
+1 360 0600 751 075;1 360 0600;7;Charlier;36000;Cheteauroux
+1 440 0050 003 001;1 440 0050;22;du Massacre;44800;Saint-Herblain
+1 440 0050 003 002;1 440 0050;22;du Massacre;44800;Saint-Herblain
+1 440 0050 003 003;1 440 0050;22;du Massacre;44800;Saint-Herblain
+1 440 0050 003 004;1 440 0050;22;du Massacre;44800;Saint-Herblain
+1 440 0050 003 005;1 440 0050;22;du Massacre;44800;Saint-Herblain
+1 440 0050 003 006;1 440 0050;22;du Massacre;44800;Saint-Herblain
+1 440 0050 003 007;1 440 0050;22;du Massacre;44800;Saint-Herblain
+1 440 0050 003 008;1 440 0050;22;du Massacre;44800;Saint-Herblain
+1 440 0050 003 009;1 440 0050;22;du Massacre;44800;Saint-Herblain
+1 440 0050 003 010;1 440 0050;22;du Massacre;44800;Saint-Herblain
+1 440 0050 003 011;1 440 0050;22;du Massacre;44800;Saint-Herblain
+1 440 0050 003 012;1 440 0050;22;du Massacre;44800;Saint-Herblain
+1 440 0050 003 013;1 440 0050;22;du Massacre;44800;Saint-Herblain
+1 440 0050 003 014;1 440 0050;22;du Massacre;44800;Saint-Herblain
+1 440 0050 003 015;1 440 0050;22;du Massacre;44800;Saint-Herblain
+1 440 0050 003 016;1 440 0050;22;du Massacre;44800;Saint-Herblain
+1 440 0050 003 017;1 440 0050;22;du Massacre;44800;Saint-Herblain
+1 440 0050 003 018;1 440 0050;22;du Massacre;44800;Saint-Herblain
+1 440 0050 003 019;1 440 0050;22;du Massacre;44800;Saint-Herblain
+1 440 0050 003 020;1 440 0050;22;du Massacre;44800;Saint-Herblain
+1 440 0050 003 021;1 440 0050;22;du Massacre;44800;Saint-Herblain
+1 440 0050 003 022;1 440 0050;22;du Massacre;44800;Saint-Herblain
+1 440 0050 003 023;1 440 0050;22;du Massacre;44800;Saint-Herblain
+1 440 0050 003 024;1 440 0050;22;du Massacre;44800;Saint-Herblain
+1 440 0050 003 025;1 440 0050;22;du Massacre;44800;Saint-Herblain
+1 440 0050 003 026;1 440 0050;22;du Massacre;44800;Saint-Herblain
+1 440 0050 003 027;1 440 0050;22;du Massacre;44800;Saint-Herblain
+1 440 0050 003 028;1 440 0050;22;du Massacre;44800;Saint-Herblain
+1 440 0050 003 029;1 440 0050;22;du Massacre;44800;Saint-Herblain
+1 440 0050 003 030;1 440 0050;22;du Massacre;44800;Saint-Herblain
+1 440 0050 003 031;1 440 0050;22;du Massacre;44800;Saint-Herblain
+1 440 0050 003 032;1 440 0050;22;du Massacre;44800;Saint-Herblain
+1 440 0050 003 033;1 440 0050;22;du Massacre;44800;Saint-Herblain
+1 440 0050 003 034;1 440 0050;22;du Massacre;44800;Saint-Herblain
+1 440 0050 003 035;1 440 0050;22;du Massacre;44800;Saint-Herblain
+1 440 0050 003 036;1 440 0050;22;du Massacre;44800;Saint-Herblain
+1 440 0050 003 037;1 440 0050;22;du Massacre;44800;Saint-Herblain
+1 440 0050 003 038;1 440 0050;22;du Massacre;44800;Saint-Herblain
+1 440 0050 003 039;1 440 0050;22;du Massacre;44800;Saint-Herblain
+1 440 0050 003 040;1 440 0050;22;du Massacre;44800;Saint-Herblain
+1 440 0050 003 041;1 440 0050;22;du Massacre;44800;Saint-Herblain
+1 440 0050 003 042;1 440 0050;22;du Massacre;44800;Saint-Herblain
+1 440 0050 003 043;1 440 0050;22;du Massacre;44800;Saint-Herblain
+1 440 0050 003 044;1 440 0050;22;du Massacre;44800;Saint-Herblain
+1 440 0050 003 045;1 440 0050;22;du Massacre;44800;Saint-Herblain
+1 440 0050 003 046;1 440 0050;22;du Massacre;44800;Saint-Herblain
+1 440 0050 003 047;1 440 0050;22;du Massacre;44800;Saint-Herblain
+1 440 0050 003 048;1 440 0050;22;du Massacre;44800;Saint-Herblain
+1 440 0050 003 049;1 440 0050;22;du Massacre;44800;Saint-Herblain
+1 440 0050 003 050;1 440 0050;22;du Massacre;44800;Saint-Herblain
+1 440 0050 003 051;1 440 0050;22;du Massacre;44800;Saint-Herblain
+1 440 0050 003 052;1 440 0050;22;du Massacre;44800;Saint-Herblain
+1 440 0050 003 053;1 440 0050;22;du Massacre;44800;Saint-Herblain
+1 440 0050 003 054;1 440 0050;22;du Massacre;44800;Saint-Herblain
+1 440 0050 003 055;1 440 0050;22;du Massacre;44800;Saint-Herblain
+1 440 0050 003 056;1 440 0050;22;du Massacre;44800;Saint-Herblain
+1 440 0050 003 057;1 440 0050;22;du Massacre;44800;Saint-Herblain
+1 440 0050 003 058;1 440 0050;22;du Massacre;44800;Saint-Herblain
+1 440 0050 003 059;1 440 0050;22;du Massacre;44800;Saint-Herblain
+1 440 0050 003 060;1 440 0050;22;du Massacre;44800;Saint-Herblain
+1 440 0050 003 061;1 440 0050;22;du Massacre;44800;Saint-Herblain
+1 440 0050 003 062;1 440 0050;22;du Massacre;44800;Saint-Herblain
+1 440 0050 003 063;1 440 0050;22;du Massacre;44800;Saint-Herblain
+1 440 0050 003 064;1 440 0050;22;du Massacre;44800;Saint-Herblain
+1 450 0031 001 001;1 450 0031;;1645 rue marcel belot;45160;Olivet
+1 450 0031 001 002;1 450 0031;;1645 rue marcel belot;45160;Olivet
+1 450 0031 002 002;1 450 0031;;1645 rue marcel belot;45160;Olivet
+1 450 0031 002 003;1 450 0031;;1645 rue marcel belot;45160;Olivet
+1 450 0031 002 004;1 450 0031;;1645 rue marcel belot;45160;Olivet
+1 500 0217 001 001;1 500 0217;;rue de st l0;50190;Periers
+1 500 0217 001 002;1 500 0217;;rue de st l0;50190;Periers
+1 500 0217 001 003;1 500 0217;;rue de st l0;50190;Periers
+1 500 0217 001 004;1 500 0217;;rue de st l0;50190;Periers
+1 500 0217 001 005;1 500 0217;;rue de st l0;50190;Periers
+1 500 0217 001 006;1 500 0217;;rue de st l0;50190;Periers
+1 520 0001 001 001;1 520 0001;30;de la Republique;52000;Chaumont
+1 520 0001 001 002;1 520 0001;30;de la Republique;52000;Chaumont
+1 520 0001 002 001;1 520 0001;30;de la Republique;52000;Chaumont
+1 520 0001 002 002;1 520 0001;30;de la Republique;52000;Chaumont
+1 520 0001 002 003;1 520 0001;30;de la Republique;52000;Chaumont
+1 520 0001 002 004;1 520 0001;30;de la Republique;52000;Chaumont
+1 520 0001 002 005;1 520 0001;30;de la Republique;52000;Chaumont
+1 520 0001 002 006;1 520 0001;30;de la Republique;52000;Chaumont
+1 520 0001 002 007;1 520 0001;30;de la Republique;52000;Chaumont
+1 520 0001 002 008;1 520 0001;30;de la Republique;52000;Chaumont
+1 520 0001 002 009;1 520 0001;30;de la Republique;52000;Chaumont
+1 520 0001 002 010;1 520 0001;30;de la Republique;52000;Chaumont
+1 520 0001 002 011;1 520 0001;30;de la Republique;52000;Chaumont
+1 520 0001 002 012;1 520 0001;30;de la Republique;52000;Chaumont
+1 520 0001 002 013;1 520 0001;30;de la Republique;52000;Chaumont
+1 520 0001 002 014;1 520 0001;30;de la Republique;52000;Chaumont
+1 520 0001 002 015;1 520 0001;30;de la Republique;52000;Chaumont
+1 520 0001 002 016;1 520 0001;30;de la Republique;52000;Chaumont
+1 520 0001 002 017;1 520 0001;30;de la Republique;52000;Chaumont
+1 520 0001 002 018;1 520 0001;30;de la Republique;52000;Chaumont
+1 520 0001 002 019;1 520 0001;30;de la Republique;52000;Chaumont
+1 520 0001 002 020;1 520 0001;30;de la Republique;52000;Chaumont
+1 520 0001 002 021;1 520 0001;30;de la Republique;52000;Chaumont
+1 520 0001 002 022;1 520 0001;30;de la Republique;52000;Chaumont
+1 520 0001 002 023;1 520 0001;30;de la Republique;52000;Chaumont
+1 520 0001 002 024;1 520 0001;30;de la Republique;52000;Chaumont
+1 520 0001 002 025;1 520 0001;30;de la Republique;52000;Chaumont
+1 520 0001 002 026;1 520 0001;30;de la Republique;52000;Chaumont
+1 520 0001 002 027;1 520 0001;30;de la Republique;52000;Chaumont
+1 520 0001 002 028;1 520 0001;30;de la Republique;52000;Chaumont
+1 520 0001 002 029;1 520 0001;30;de la Republique;52000;Chaumont
+1 520 0001 002 030;1 520 0001;30;de la Republique;52000;Chaumont
+1 520 0001 002 031;1 520 0001;30;de la Republique;52000;Chaumont
+1 520 0001 002 032;1 520 0001;30;de la Republique;52000;Chaumont
+1 520 0001 002 033;1 520 0001;30;de la Republique;52000;Chaumont
+1 520 0001 002 034;1 520 0001;30;de la Republique;52000;Chaumont
+1 520 0001 002 035;1 520 0001;30;de la Republique;52000;Chaumont
+1 520 0001 002 036;1 520 0001;30;de la Republique;52000;Chaumont
+1 520 0001 002 037;1 520 0001;30;de la Republique;52000;Chaumont
+1 520 0001 002 038;1 520 0001;30;de la Republique;52000;Chaumont
+1 520 0001 002 039;1 520 0001;30;de la Republique;52000;Chaumont
+1 540 0175 001 001;1 540 0175;;1 a 15 rue de la d0uane;54590;Hussigny-Godbrange
+1 540 0175 001 002;1 540 0175;;1 a 15 rue de la d0uane;54590;Hussigny-Godbrange
+1 540 0175 002 003;1 540 0175;;1 a 15 rue de la d0uane;54590;Hussigny-Godbrange
+1 540 0175 002 004;1 540 0175;;1 a 15 rue de la d0uane;54590;Hussigny-Godbrange
+1 540 0175 002 005;1 540 0175;;1 a 15 rue de la d0uane;54590;Hussigny-Godbrange
+1 540 0175 002 006;1 540 0175;;1 a 15 rue de la d0uane;54590;Hussigny-Godbrange
+1 540 0175 002 007;1 540 0175;;1 a 15 rue de la d0uane;54590;Hussigny-Godbrange
+1 550 0155 001 001;1 550 0155;24; Pont Etrier;55250;Seuil-d'Argonne
+1 550 0155 001 002;1 550 0155;24; Pont Etrier;55250;Seuil-d'Argonne
+1 550 0155 001 003;1 550 0155;24; Pont Etrier;55250;Seuil-d'Argonne
+1 550 0155 001 004;1 550 0155;24; Pont Etrier;55250;Seuil-d'Argonne
+1 550 0155 001 005;1 550 0155;24; Pont Etrier;55250;Seuil-d'Argonne
+1 550 0155 001 006;1 550 0155;24; Pont Etrier;55250;Seuil-d'Argonne
+1 560 0024 001 005;1 560 0024;15;Mathurin Lefort;56430;Mauron
+1 560 0139 001 001;1 560 0139;16;du Marechal Leclerc;56150;Baud
+1 560 0139 001 002;1 560 0139;16;du Marechal Leclerc;56150;Baud
+1 560 0139 001 003;1 560 0139;16;du Marechal Leclerc;56150;Baud
+1 570 0277 001 001;1 570 0277;;7 rue du 8 mai 1945;57300;Hagondange
+1 570 0277 001 002;1 570 0277;;7 rue du 8 mai 1945;57300;Hagondange
+1 570 0277 001 003;1 570 0277;;7 rue du 8 mai 1945;57300;Hagondange
+1 570 0277 001 004;1 570 0277;;7 rue du 8 mai 1945;57300;Hagondange
+1 570 0277 001 005;1 570 0277;;7 rue du 8 mai 1945;57300;Hagondange
+1 570 0277 001 006;1 570 0277;;7 rue du 8 mai 1945;57300;Hagondange
+1 570 0277 001 007;1 570 0277;;7 rue du 8 mai 1945;57300;Hagondange
+1 570 0277 001 008;1 570 0277;;7 rue du 8 mai 1945;57300;Hagondange
+1 570 0305 001 001;1 570 0305;;18 Grand'rue;57280;Maizieres-les-Metz
+1 570 0305 001 002;1 570 0305;;18 Grand'rue;57280;Maizieres-les-Metz
+1 570 0305 001 003;1 570 0305;;18 Grand'rue;57280;Maizieres-les-Metz
+1 570 0305 001 004;1 570 0305;;18 Grand'rue;57280;Maizieres-les-Metz
+1 570 0305 001 005;1 570 0305;;18 Grand'rue;57280;Maizieres-les-Metz
+1 570 0305 001 006;1 570 0305;;18 Grand'rue;57280;Maizieres-les-Metz
+1 570 0305 001 007;1 570 0305;;18 Grand'rue;57280;Maizieres-les-Metz
+1 570 0305 002 001;1 570 0305;;18 Grand'rue;57280;Maizieres-les-Metz
+1 570 0305 002 002;1 570 0305;;18 Grand'rue;57280;Maizieres-les-Metz
+1 570 0305 002 003;1 570 0305;;18 Grand'rue;57280;Maizieres-les-Metz
+1 570 0305 005 001;1 570 0305;;18 Grand'rue;57280;Maizieres-les-Metz
+1 570 0305 005 002;1 570 0305;;18 Grand'rue;57280;Maizieres-les-Metz
+1 570 0305 005 003;1 570 0305;;18 Grand'rue;57280;Maizieres-les-Metz
+1 570 0305 005 004;1 570 0305;;18 Grand'rue;57280;Maizieres-les-Metz
+1 570 0305 005 005;1 570 0305;;18 Grand'rue;57280;Maizieres-les-Metz
+1 570 0313 001 001;1 570 0313;;73 rue General Franiatte;57950;Montigny-les-Metz
+1 570 0313 001 002;1 570 0313;;73 rue General Franiatte;57950;Montigny-les-Metz
+1 570 0313 001 003;1 570 0313;;73 rue General Franiatte;57950;Montigny-les-Metz
+1 570 0313 001 004;1 570 0313;;73 rue General Franiatte;57950;Montigny-les-Metz
+1 570 0313 001 005;1 570 0313;;73 rue General Franiatte;57950;Montigny-les-Metz
+1 570 0313 001 006;1 570 0313;;73 rue General Franiatte;57950;Montigny-les-Metz
+1 570 0313 001 007;1 570 0313;;73 rue General Franiatte;57950;Montigny-les-Metz
+1 570 0313 001 008;1 570 0313;;73 rue General Franiatte;57950;Montigny-les-Metz
+1 570 0313 001 009;1 570 0313;;73 rue General Franiatte;57950;Montigny-les-Metz
+1 570 0313 001 010;1 570 0313;;73 rue General Franiatte;57950;Montigny-les-Metz
+1 570 0441 001 001;1 570 0441;;13 rue Nationale;57420;Verny
+1 570 0441 001 002;1 570 0441;;13 rue Nationale;57420;Verny
+1 570 0441 001 003;1 570 0441;;13 rue Nationale;57420;Verny
+1 570 0441 001 004;1 570 0441;;13 rue Nationale;57420;Verny
+1 570 0441 001 005;1 570 0441;;13 rue Nationale;57420;Verny
+1 570 0441 001 006;1 570 0441;;13 rue Nationale;57420;Verny
+1 570 0600 001 001;1 570 0600;;92 avenue de la Blies;57200;Sarreguemines
+1 570 0600 001 002;1 570 0600;;92 avenue de la Blies;57200;Sarreguemines
+1 570 0600 001 003;1 570 0600;;92 avenue de la Blies;57200;Sarreguemines
+1 570 0600 001 004;1 570 0600;;92 avenue de la Blies;57200;Sarreguemines
+1 570 0600 001 005;1 570 0600;;92 avenue de la Blies;57200;Sarreguemines
+1 570 0600 001 006;1 570 0600;;92 avenue de la Blies;57200;Sarreguemines
+1 570 0600 016 001;1 570 0600;;92 avenue de la Blies;57200;Sarreguemines
+1 570 0600 016 002;1 570 0600;;92 avenue de la Blies;57200;Sarreguemines
+1 570 0600 017 001;1 570 0600;;92 avenue de la Blies;57200;Sarreguemines
+1 570 0600 018 001;1 570 0600;;92 avenue de la Blies;57200;Sarreguemines
+1 570 0600 018 002;1 570 0600;;92 avenue de la Blies;57200;Sarreguemines
+1 570 0600 019 001;1 570 0600;;92 avenue de la Blies;57200;Sarreguemines
+1 570 0600 019 002;1 570 0600;;92 avenue de la Blies;57200;Sarreguemines
+1 570 0600 019 003;1 570 0600;;92 avenue de la Blies;57200;Sarreguemines
+1 570 0600 019 005;1 570 0600;;92 avenue de la Blies;57200;Sarreguemines
+1 570 0600 019 006;1 570 0600;;92 avenue de la Blies;57200;Sarreguemines
+1 570 0600 019 007;1 570 0600;;92 avenue de la Blies;57200;Sarreguemines
+1 570 0600 019 008;1 570 0600;;92 avenue de la Blies;57200;Sarreguemines
+1 570 0600 019 009;1 570 0600;;92 avenue de la Blies;57200;Sarreguemines
+1 570 0600 019 010;1 570 0600;;92 avenue de la Blies;57200;Sarreguemines
+1 570 0600 019 011;1 570 0600;;92 avenue de la Blies;57200;Sarreguemines
+1 570 0600 019 012;1 570 0600;;92 avenue de la Blies;57200;Sarreguemines
+1 570 0600 019 013;1 570 0600;;92 avenue de la Blies;57200;Sarreguemines
+1 570 0600 019 014;1 570 0600;;92 avenue de la Blies;57200;Sarreguemines
+1 570 0600 019 015;1 570 0600;;92 avenue de la Blies;57200;Sarreguemines
+1 570 0600 019 016;1 570 0600;;92 avenue de la Blies;57200;Sarreguemines
+1 570 0600 019 017;1 570 0600;;92 avenue de la Blies;57200;Sarreguemines
+1 570 0600 019 018;1 570 0600;;92 avenue de la Blies;57200;Sarreguemines
+1 570 0600 020 001;1 570 0600;;92 avenue de la Blies;57200;Sarreguemines
+1 570 0600 020 003;1 570 0600;;92 avenue de la Blies;57200;Sarreguemines
+1 570 0600 020 004;1 570 0600;;92 avenue de la Blies;57200;Sarreguemines
+1 570 0600 020 005;1 570 0600;;92 avenue de la Blies;57200;Sarreguemines
+1 570 0600 020 006;1 570 0600;;92 avenue de la Blies;57200;Sarreguemines
+1 570 0600 020 007;1 570 0600;;92 avenue de la Blies;57200;Sarreguemines
+1 570 0600 020 008;1 570 0600;;92 avenue de la Blies;57200;Sarreguemines
+1 570 0600 020 009;1 570 0600;;92 avenue de la Blies;57200;Sarreguemines
+1 570 0600 020 010;1 570 0600;;92 avenue de la Blies;57200;Sarreguemines
+1 570 0600 020 011;1 570 0600;;92 avenue de la Blies;57200;Sarreguemines
+1 570 0600 020 012;1 570 0600;;92 avenue de la Blies;57200;Sarreguemines
+1 570 0600 020 013;1 570 0600;;92 avenue de la Blies;57200;Sarreguemines
+1 570 0600 020 014;1 570 0600;;92 avenue de la Blies;57200;Sarreguemines
+1 570 0600 020 015;1 570 0600;;92 avenue de la Blies;57200;Sarreguemines
+1 570 0600 020 016;1 570 0600;;92 avenue de la Blies;57200;Sarreguemines
+1 570 0600 020 017;1 570 0600;;92 avenue de la Blies;57200;Sarreguemines
+1 570 0600 020 018;1 570 0600;;92 avenue de la Blies;57200;Sarreguemines
+1 570 0600 021 001;1 570 0600;;92 avenue de la Blies;57200;Sarreguemines
+1 570 0600 021 003;1 570 0600;;92 avenue de la Blies;57200;Sarreguemines
+1 570 0600 021 005;1 570 0600;;92 avenue de la Blies;57200;Sarreguemines
+1 570 0600 021 006;1 570 0600;;92 avenue de la Blies;57200;Sarreguemines
+1 570 0600 021 007;1 570 0600;;92 avenue de la Blies;57200;Sarreguemines
+1 570 0600 021 009;1 570 0600;;92 avenue de la Blies;57200;Sarreguemines
+1 570 0600 021 010;1 570 0600;;92 avenue de la Blies;57200;Sarreguemines
+1 570 0600 021 011;1 570 0600;;92 avenue de la Blies;57200;Sarreguemines
+1 570 0600 021 012;1 570 0600;;92 avenue de la Blies;57200;Sarreguemines
+1 570 0600 021 013;1 570 0600;;92 avenue de la Blies;57200;Sarreguemines
+1 570 0600 021 014;1 570 0600;;92 avenue de la Blies;57200;Sarreguemines
+1 570 0600 021 015;1 570 0600;;92 avenue de la Blies;57200;Sarreguemines
+1 570 0600 021 016;1 570 0600;;92 avenue de la Blies;57200;Sarreguemines
+1 570 0600 021 017;1 570 0600;;92 avenue de la Blies;57200;Sarreguemines
+1 570 0600 021 018;1 570 0600;;92 avenue de la Blies;57200;Sarreguemines
+1 570 0600 022 001;1 570 0600;;92 avenue de la Blies;57200;Sarreguemines
+1 570 0600 022 002;1 570 0600;;92 avenue de la Blies;57200;Sarreguemines
+1 570 0600 022 003;1 570 0600;;92 avenue de la Blies;57200;Sarreguemines
+1 570 0600 022 004;1 570 0600;;92 avenue de la Blies;57200;Sarreguemines
+1 570 0600 022 005;1 570 0600;;92 avenue de la Blies;57200;Sarreguemines
+1 570 0600 022 006;1 570 0600;;92 avenue de la Blies;57200;Sarreguemines
+1 570 0600 022 007;1 570 0600;;92 avenue de la Blies;57200;Sarreguemines
+1 570 0600 022 008;1 570 0600;;92 avenue de la Blies;57200;Sarreguemines
+1 570 0600 022 009;1 570 0600;;92 avenue de la Blies;57200;Sarreguemines
+1 570 0600 022 010;1 570 0600;;92 avenue de la Blies;57200;Sarreguemines
+1 570 0600 022 011;1 570 0600;;92 avenue de la Blies;57200;Sarreguemines
+1 570 0600 022 012;1 570 0600;;92 avenue de la Blies;57200;Sarreguemines
+1 570 0600 022 013;1 570 0600;;92 avenue de la Blies;57200;Sarreguemines
+1 570 0600 022 014;1 570 0600;;92 avenue de la Blies;57200;Sarreguemines
+1 570 0600 022 015;1 570 0600;;92 avenue de la Blies;57200;Sarreguemines
+1 570 0600 022 016;1 570 0600;;92 avenue de la Blies;57200;Sarreguemines
+1 570 0600 022 017;1 570 0600;;92 avenue de la Blies;57200;Sarreguemines
+1 570 0600 022 018;1 570 0600;;92 avenue de la Blies;57200;Sarreguemines
+1 570 0600 023 001;1 570 0600;;92 avenue de la Blies;57200;Sarreguemines
+1 570 0600 023 002;1 570 0600;;92 avenue de la Blies;57200;Sarreguemines
+1 570 0600 023 003;1 570 0600;;92 avenue de la Blies;57200;Sarreguemines
+1 570 0600 023 004;1 570 0600;;92 avenue de la Blies;57200;Sarreguemines
+1 570 0600 023 005;1 570 0600;;92 avenue de la Blies;57200;Sarreguemines
+1 570 0600 023 006;1 570 0600;;92 avenue de la Blies;57200;Sarreguemines
+1 570 0600 024 001;1 570 0600;;92 avenue de la Blies;57200;Sarreguemines
+1 570 0600 024 002;1 570 0600;;92 avenue de la Blies;57200;Sarreguemines
+1 570 0600 024 003;1 570 0600;;92 avenue de la Blies;57200;Sarreguemines
+1 570 0600 024 004;1 570 0600;;92 avenue de la Blies;57200;Sarreguemines
+1 570 0600 024 005;1 570 0600;;92 avenue de la Blies;57200;Sarreguemines
+1 570 0600 024 006;1 570 0600;;92 avenue de la Blies;57200;Sarreguemines
+1 570 0600 024 007;1 570 0600;;92 avenue de la Blies;57200;Sarreguemines
+1 570 0600 024 008;1 570 0600;;92 avenue de la Blies;57200;Sarreguemines
+1 570 0600 025 001;1 570 0600;;92 avenue de la Blies;57200;Sarreguemines
+1 570 0600 025 002;1 570 0600;;92 avenue de la Blies;57200;Sarreguemines
+1 570 0600 025 003;1 570 0600;;92 avenue de la Blies;57200;Sarreguemines
+1 570 0600 025 004;1 570 0600;;92 avenue de la Blies;57200;Sarreguemines
+1 570 0600 025 005;1 570 0600;;92 avenue de la Blies;57200;Sarreguemines
+1 570 0600 025 006;1 570 0600;;92 avenue de la Blies;57200;Sarreguemines
+1 570 0600 026 001;1 570 0600;;92 avenue de la Blies;57200;Sarreguemines
+1 570 0600 026 003;1 570 0600;;92 avenue de la Blies;57200;Sarreguemines
+1 570 0600 026 005;1 570 0600;;92 avenue de la Blies;57200;Sarreguemines
+1 570 0600 026 007;1 570 0600;;92 avenue de la Blies;57200;Sarreguemines
+1 570 0600 026 008;1 570 0600;;92 avenue de la Blies;57200;Sarreguemines
+1 570 0600 026 009;1 570 0600;;92 avenue de la Blies;57200;Sarreguemines
+1 570 0600 026 010;1 570 0600;;92 avenue de la Blies;57200;Sarreguemines
+1 570 0600 026 011;1 570 0600;;92 avenue de la Blies;57200;Sarreguemines
+1 570 0600 026 012;1 570 0600;;92 avenue de la Blies;57200;Sarreguemines
+1 570 0600 027 001;1 570 0600;;92 avenue de la Blies;57200;Sarreguemines
+1 570 0600 027 002;1 570 0600;;92 avenue de la Blies;57200;Sarreguemines
+1 570 0600 027 003;1 570 0600;;92 avenue de la Blies;57200;Sarreguemines
+1 570 0600 027 004;1 570 0600;;92 avenue de la Blies;57200;Sarreguemines
+1 570 0600 027 005;1 570 0600;;92 avenue de la Blies;57200;Sarreguemines
+1 570 0600 027 006;1 570 0600;;92 avenue de la Blies;57200;Sarreguemines
+1 570 0930 001 001;1 570 0930;;route de Vigny - VILLA AeROPORT;57420;Goin
+1 591 0027 001 003;1 591 0027;2; l arsenal;59380;Bergues
+1 591 0027 001 004;1 591 0027;2; l arsenal;59380;Bergues
+1 591 0027 001 005;1 591 0027;2; l arsenal;59380;Bergues
+1 591 0027 001 006;1 591 0027;2; l arsenal;59380;Bergues
+1 591 0027 001 007;1 591 0027;2; l arsenal;59380;Bergues
+1 591 0027 001 008;1 591 0027;2; l arsenal;59380;Bergues
+1 592 0646 001 010;1 592 0646;;RUE DE LA DREVE;59810;Lesquin
+1 592 0646 001 012;1 592 0646;;RUE DE LA DREVE;59810;Lesquin
+1 610 0200 001 001;1 610 0200;;Les Trois Croix;61200;Argentan
+1 610 0200 001 002;1 610 0200;;Les Trois Croix;61200;Argentan
+1 610 0200 001 003;1 610 0200;;Les Trois Croix;61200;Argentan
+1 610 0200 001 004;1 610 0200;;Les Trois Croix;61200;Argentan
+1 610 0200 001 005;1 610 0200;;Les Trois Croix;61200;Argentan
+1 610 0200 001 006;1 610 0200;;Les Trois Croix;61200;Argentan
+1 610 0200 001 007;1 610 0200;;Les Trois Croix;61200;Argentan
+1 610 0200 001 008;1 610 0200;;Les Trois Croix;61200;Argentan
+1 610 0200 001 009;1 610 0200;;Les Trois Croix;61200;Argentan
+1 610 0200 001 010;1 610 0200;;Les Trois Croix;61200;Argentan
+1 610 0200 001 011;1 610 0200;;Les Trois Croix;61200;Argentan
+1 610 0200 001 012;1 610 0200;;Les Trois Croix;61200;Argentan
+1 610 0200 001 013;1 610 0200;;Les Trois Croix;61200;Argentan
+1 610 0200 001 014;1 610 0200;;Les Trois Croix;61200;Argentan
+1 610 0200 001 015;1 610 0200;;Les Trois Croix;61200;Argentan
+1 610 0200 001 016;1 610 0200;;Les Trois Croix;61200;Argentan
+1 610 0200 001 017;1 610 0200;;Les Trois Croix;61200;Argentan
+1 610 0200 003 001;1 610 0200;;Les Trois Croix;61200;Argentan
+1 610 0200 003 002;1 610 0200;;Les Trois Croix;61200;Argentan
+1 610 0200 003 003;1 610 0200;;Les Trois Croix;61200;Argentan
+1 610 0200 003 004;1 610 0200;;Les Trois Croix;61200;Argentan
+1 610 0200 003 005;1 610 0200;;Les Trois Croix;61200;Argentan
+1 610 0200 003 006;1 610 0200;;Les Trois Croix;61200;Argentan
+1 610 0200 003 007;1 610 0200;;Les Trois Croix;61200;Argentan
+1 620 0700 001 001;1 620 0700;;1 rue fg d arras;62450;Bapaume
+1 620 0700 001 003;1 620 0700;;1 rue fg d arras;62450;Bapaume
+1 620 0700 001 004;1 620 0700;;1 rue fg d arras;62450;Bapaume
+1 620 0700 001 011;1 620 0700;;1 rue fg d arras;62450;Bapaume
+1 620 0700 001 012;1 620 0700;;1 rue fg d arras;62450;Bapaume
+1 620 0700 001 013;1 620 0700;;1 rue fg d arras;62450;Bapaume
+1 620 0700 001 014;1 620 0700;;1 rue fg d arras;62450;Bapaume
+1 620 0700 001 021;1 620 0700;;1 rue fg d arras;62450;Bapaume
+1 620 0700 001 022;1 620 0700;;1 rue fg d arras;62450;Bapaume
+1 620 0700 001 023;1 620 0700;;1 rue fg d arras;62450;Bapaume
+1 620 0700 002 001;1 620 0700;;1 rue fg d arras;62450;Bapaume
+1 620 0700 002 002;1 620 0700;;1 rue fg d arras;62450;Bapaume
+1 620 0700 002 003;1 620 0700;;1 rue fg d arras;62450;Bapaume
+1 620 0700 002 004;1 620 0700;;1 rue fg d arras;62450;Bapaume
+1 620 0700 002 011;1 620 0700;;1 rue fg d arras;62450;Bapaume
+1 620 0700 002 012;1 620 0700;;1 rue fg d arras;62450;Bapaume
+1 620 0700 002 013;1 620 0700;;1 rue fg d arras;62450;Bapaume
+1 620 0700 002 014;1 620 0700;;1 rue fg d arras;62450;Bapaume
+1 620 0700 002 021;1 620 0700;;1 rue fg d arras;62450;Bapaume
+1 620 0700 002 022;1 620 0700;;1 rue fg d arras;62450;Bapaume
+1 620 0700 002 023;1 620 0700;;1 rue fg d arras;62450;Bapaume
+1 620 0700 002 024;1 620 0700;;1 rue fg d arras;62450;Bapaume
+1 620 0700 003 001;1 620 0700;;1 rue fg d arras;62450;Bapaume
+1 620 0700 003 002;1 620 0700;;1 rue fg d arras;62450;Bapaume
+1 620 0700 003 003;1 620 0700;;1 rue fg d arras;62450;Bapaume
+1 620 0700 003 004;1 620 0700;;1 rue fg d arras;62450;Bapaume
+1 620 0700 003 011;1 620 0700;;1 rue fg d arras;62450;Bapaume
+1 620 0700 003 012;1 620 0700;;1 rue fg d arras;62450;Bapaume
+1 620 0700 003 013;1 620 0700;;1 rue fg d arras;62450;Bapaume
+1 620 0700 003 014;1 620 0700;;1 rue fg d arras;62450;Bapaume
+1 620 0700 003 021;1 620 0700;;1 rue fg d arras;62450;Bapaume
+1 620 0700 003 022;1 620 0700;;1 rue fg d arras;62450;Bapaume
+1 620 0700 003 023;1 620 0700;;1 rue fg d arras;62450;Bapaume
+1 620 0700 003 024;1 620 0700;;1 rue fg d arras;62450;Bapaume
+1 620 0700 004 001;1 620 0700;;1 rue fg d arras;62450;Bapaume
+1 620 0700 004 002;1 620 0700;;1 rue fg d arras;62450;Bapaume
+1 620 0700 004 011;1 620 0700;;1 rue fg d arras;62450;Bapaume
+1 620 0700 004 012;1 620 0700;;1 rue fg d arras;62450;Bapaume
+1 620 0700 004 013;1 620 0700;;1 rue fg d arras;62450;Bapaume
+1 620 0700 004 021;1 620 0700;;1 rue fg d arras;62450;Bapaume
+1 620 0700 005 001;1 620 0700;;1 rue fg d arras;62450;Bapaume
+1 620 0700 005 002;1 620 0700;;1 rue fg d arras;62450;Bapaume
+1 620 0700 005 011;1 620 0700;;1 rue fg d arras;62450;Bapaume
+1 620 0700 005 012;1 620 0700;;1 rue fg d arras;62450;Bapaume
+1 620 0700 005 013;1 620 0700;;1 rue fg d arras;62450;Bapaume
+1 620 0700 005 021;1 620 0700;;1 rue fg d arras;62450;Bapaume
+1 620 0700 008 001;1 620 0700;;1 rue fg d arras;62450;Bapaume
+1 620 0700 008 002;1 620 0700;;1 rue fg d arras;62450;Bapaume
+1 640 0178 001 001;1 640 0178;;urdos;64490;Urdos
+1 640 0178 002 002;1 640 0178;;urdos;64490;Urdos
+1 640 0178 003 003;1 640 0178;;urdos;64490;Urdos
+1 640 0178 003 004;1 640 0178;;urdos;64490;Urdos
+1 640 0178 004 005;1 640 0178;;urdos;64490;Urdos
+1 640 0178 004 006;1 640 0178;;urdos;64490;Urdos
+1 670 0018 002 001;1 670 0018;;1 rue du f0sse c0mmunal;67400;Illkirch-Graffenstaden
+1 670 0018 002 002;1 670 0018;;1 rue du f0sse c0mmunal;67400;Illkirch-Graffenstaden
+1 670 0018 003 001;1 670 0018;;1 rue du f0sse c0mmunal;67400;Illkirch-Graffenstaden
+1 670 0018 003 002;1 670 0018;;1 rue du f0sse c0mmunal;67400;Illkirch-Graffenstaden
+1 670 0018 003 003;1 670 0018;;1 rue du f0sse c0mmunal;67400;Illkirch-Graffenstaden
+1 670 0018 003 004;1 670 0018;;1 rue du f0sse c0mmunal;67400;Illkirch-Graffenstaden
+1 670 0018 004 001;1 670 0018;;1 rue du f0sse c0mmunal;67400;Illkirch-Graffenstaden
+1 670 0018 004 002;1 670 0018;;1 rue du f0sse c0mmunal;67400;Illkirch-Graffenstaden
+1 670 0018 004 003;1 670 0018;;1 rue du f0sse c0mmunal;67400;Illkirch-Graffenstaden
+1 670 0018 004 004;1 670 0018;;1 rue du f0sse c0mmunal;67400;Illkirch-Graffenstaden
+1 670 0074 001 001;1 670 0074;;10 rue de bassemberg;67220;Ville
+1 670 0074 001 002;1 670 0074;;10 rue de bassemberg;67220;Ville
+1 670 0074 001 003;1 670 0074;;10 rue de bassemberg;67220;Ville
+1 670 0074 001 004;1 670 0074;;10 rue de bassemberg;67220;Ville
+1 670 0074 001 005;1 670 0074;;10 rue de bassemberg;67220;Ville
+1 670 0074 001 006;1 670 0074;;10 rue de bassemberg;67220;Ville
+1 670 0082 001 002;1 670 0082;1;0berhausbergen;67202;Wolfisheim
+1 670 0082 001 003;1 670 0082;1;0berhausbergen;67202;Wolfisheim
+1 670 0082 001 004;1 670 0082;1;0berhausbergen;67202;Wolfisheim
+1 670 0082 001 005;1 670 0082;1;0berhausbergen;67202;Wolfisheim
+1 680 0006 001 002;1 680 0006;;10 rue du Pont d'Aspach;68520;Burnhaupt-le-Haut
+1 680 0006 001 003;1 680 0006;;10 rue du Pont d'Aspach;68520;Burnhaupt-le-Haut
+1 680 0006 001 004;1 680 0006;;10 rue du Pont d'Aspach;68520;Burnhaupt-le-Haut
+1 680 0006 001 005;1 680 0006;;10 rue du Pont d'Aspach;68520;Burnhaupt-le-Haut
+1 680 0046 001 001;1 680 0046;28;du marechal Foch;68680;Kembs
+1 680 0046 001 002;1 680 0046;28;du marechal Foch;68680;Kembs
+1 680 0046 001 003;1 680 0046;28;du marechal Foch;68680;Kembs
+1 680 0046 001 004;1 680 0046;28;du marechal Foch;68680;Kembs
+1 680 0046 001 005;1 680 0046;28;du marechal Foch;68680;Kembs
+1 680 0046 001 006;1 680 0046;28;du marechal Foch;68680;Kembs
+1 680 0500 002 001;1 680 0500;;1 Rue du Colonel Robelin;68480;Ferrette
+1 680 0500 003 001;1 680 0500;;1 Rue du Colonel Robelin;68480;Ferrette
+1 680 0500 003 002;1 680 0500;;1 Rue du Colonel Robelin;68480;Ferrette
+1 680 0500 004 001;1 680 0500;;1 Rue du Colonel Robelin;68480;Ferrette
+1 680 0500 004 002;1 680 0500;;1 Rue du Colonel Robelin;68480;Ferrette
+1 680 0500 004 003;1 680 0500;;1 Rue du Colonel Robelin;68480;Ferrette
+1 680 0500 004 004;1 680 0500;;1 Rue du Colonel Robelin;68480;Ferrette
+1 680 0500 004 005;1 680 0500;;1 Rue du Colonel Robelin;68480;Ferrette
+1 680 0500 004 006;1 680 0500;;1 Rue du Colonel Robelin;68480;Ferrette
+1 680 0500 004 007;1 680 0500;;1 Rue du Colonel Robelin;68480;Ferrette
+1 680 0500 004 008;1 680 0500;;1 Rue du Colonel Robelin;68480;Ferrette
+1 680 0500 004 009;1 680 0500;;1 Rue du Colonel Robelin;68480;Ferrette
+1 680 0500 004 010;1 680 0500;;1 Rue du Colonel Robelin;68480;Ferrette
+1 680 0500 004 011;1 680 0500;;1 Rue du Colonel Robelin;68480;Ferrette
+1 680 0500 004 012;1 680 0500;;1 Rue du Colonel Robelin;68480;Ferrette
+1 680 0500 004 013;1 680 0500;;1 Rue du Colonel Robelin;68480;Ferrette
+1 680 0500 004 014;1 680 0500;;1 Rue du Colonel Robelin;68480;Ferrette
+1 680 0500 004 015;1 680 0500;;1 Rue du Colonel Robelin;68480;Ferrette
+1 680 0500 004 016;1 680 0500;;1 Rue du Colonel Robelin;68480;Ferrette
+1 680 0500 004 017;1 680 0500;;1 Rue du Colonel Robelin;68480;Ferrette
+1 680 0500 009 001;1 680 0500;;1 Rue du Colonel Robelin;68480;Ferrette
+1 680 0500 009 002;1 680 0500;;1 Rue du Colonel Robelin;68480;Ferrette
+1 680 0500 009 003;1 680 0500;;1 Rue du Colonel Robelin;68480;Ferrette
+1 680 0500 009 004;1 680 0500;;1 Rue du Colonel Robelin;68480;Ferrette
+1 680 0500 009 005;1 680 0500;;1 Rue du Colonel Robelin;68480;Ferrette
+1 680 0500 009 006;1 680 0500;;1 Rue du Colonel Robelin;68480;Ferrette
+1 680 0500 009 007;1 680 0500;;1 Rue du Colonel Robelin;68480;Ferrette
+1 680 0500 009 008;1 680 0500;;1 Rue du Colonel Robelin;68480;Ferrette
+1 680 0500 009 009;1 680 0500;;1 Rue du Colonel Robelin;68480;Ferrette
+1 680 0500 009 010;1 680 0500;;1 Rue du Colonel Robelin;68480;Ferrette
+1 680 0500 009 011;1 680 0500;;1 Rue du Colonel Robelin;68480;Ferrette
+1 680 0500 009 012;1 680 0500;;1 Rue du Colonel Robelin;68480;Ferrette
+1 680 0500 009 013;1 680 0500;;1 Rue du Colonel Robelin;68480;Ferrette
+1 680 0500 009 014;1 680 0500;;1 Rue du Colonel Robelin;68480;Ferrette
+1 680 0500 009 015;1 680 0500;;1 Rue du Colonel Robelin;68480;Ferrette
+1 680 0500 009 016;1 680 0500;;1 Rue du Colonel Robelin;68480;Ferrette
+1 680 0500 009 017;1 680 0500;;1 Rue du Colonel Robelin;68480;Ferrette
+1 680 0500 009 018;1 680 0500;;1 Rue du Colonel Robelin;68480;Ferrette
+1 680 0500 010 001;1 680 0500;;1 Rue du Colonel Robelin;68480;Ferrette
+1 680 0500 010 002;1 680 0500;;1 Rue du Colonel Robelin;68480;Ferrette
+1 680 0500 010 003;1 680 0500;;1 Rue du Colonel Robelin;68480;Ferrette
+1 680 0500 010 004;1 680 0500;;1 Rue du Colonel Robelin;68480;Ferrette
+1 680 0500 010 005;1 680 0500;;1 Rue du Colonel Robelin;68480;Ferrette
+1 680 0500 010 006;1 680 0500;;1 Rue du Colonel Robelin;68480;Ferrette
+1 680 0500 010 007;1 680 0500;;1 Rue du Colonel Robelin;68480;Ferrette
+1 680 0500 010 008;1 680 0500;;1 Rue du Colonel Robelin;68480;Ferrette
+1 680 0500 010 009;1 680 0500;;1 Rue du Colonel Robelin;68480;Ferrette
+1 680 0500 010 010;1 680 0500;;1 Rue du Colonel Robelin;68480;Ferrette
+1 680 0500 010 011;1 680 0500;;1 Rue du Colonel Robelin;68480;Ferrette
+1 680 0500 010 012;1 680 0500;;1 Rue du Colonel Robelin;68480;Ferrette
+1 680 0500 010 013;1 680 0500;;1 Rue du Colonel Robelin;68480;Ferrette
+1 680 0500 010 014;1 680 0500;;1 Rue du Colonel Robelin;68480;Ferrette
+1 680 0500 011 001;1 680 0500;;1 Rue du Colonel Robelin;68480;Ferrette
+1 680 0500 011 002;1 680 0500;;1 Rue du Colonel Robelin;68480;Ferrette
+1 680 0500 011 003;1 680 0500;;1 Rue du Colonel Robelin;68480;Ferrette
+1 680 0500 011 004;1 680 0500;;1 Rue du Colonel Robelin;68480;Ferrette
+1 680 0500 011 005;1 680 0500;;1 Rue du Colonel Robelin;68480;Ferrette
+1 680 0500 011 006;1 680 0500;;1 Rue du Colonel Robelin;68480;Ferrette
+1 680 0500 011 007;1 680 0500;;1 Rue du Colonel Robelin;68480;Ferrette
+1 680 0500 011 008;1 680 0500;;1 Rue du Colonel Robelin;68480;Ferrette
+1 680 0500 011 009;1 680 0500;;1 Rue du Colonel Robelin;68480;Ferrette
+1 680 0500 011 010;1 680 0500;;1 Rue du Colonel Robelin;68480;Ferrette
+1 680 0500 011 011;1 680 0500;;1 Rue du Colonel Robelin;68480;Ferrette
+1 680 0500 011 012;1 680 0500;;1 Rue du Colonel Robelin;68480;Ferrette
+1 680 0500 012 001;1 680 0500;;1 Rue du Colonel Robelin;68480;Ferrette
+1 680 0500 012 002;1 680 0500;;1 Rue du Colonel Robelin;68480;Ferrette
+1 680 0500 012 003;1 680 0500;;1 Rue du Colonel Robelin;68480;Ferrette
+1 680 0500 012 004;1 680 0500;;1 Rue du Colonel Robelin;68480;Ferrette
+1 680 0500 012 005;1 680 0500;;1 Rue du Colonel Robelin;68480;Ferrette
+1 680 0500 012 006;1 680 0500;;1 Rue du Colonel Robelin;68480;Ferrette
+1 680 0500 012 007;1 680 0500;;1 Rue du Colonel Robelin;68480;Ferrette
+1 680 0500 012 008;1 680 0500;;1 Rue du Colonel Robelin;68480;Ferrette
+1 680 0500 012 009;1 680 0500;;1 Rue du Colonel Robelin;68480;Ferrette
+1 680 0500 012 010;1 680 0500;;1 Rue du Colonel Robelin;68480;Ferrette
+1 680 0500 012 011;1 680 0500;;1 Rue du Colonel Robelin;68480;Ferrette
+1 680 0500 012 012;1 680 0500;;1 Rue du Colonel Robelin;68480;Ferrette
+1 680 0500 022 001;1 680 0500;;1 Rue du Colonel Robelin;68480;Ferrette
+1 680 0500 022 002;1 680 0500;;1 Rue du Colonel Robelin;68480;Ferrette
+1 680 0500 022 003;1 680 0500;;1 Rue du Colonel Robelin;68480;Ferrette
+1 680 0500 022 004;1 680 0500;;1 Rue du Colonel Robelin;68480;Ferrette
+1 680 0500 022 005;1 680 0500;;1 Rue du Colonel Robelin;68480;Ferrette
+1 680 0500 022 006;1 680 0500;;1 Rue du Colonel Robelin;68480;Ferrette
+1 680 0501 005 001;1 680 0501;8; General Moreigne;68480;Ferrette
+1 680 0501 005 002;1 680 0501;8; General Moreigne;68480;Ferrette
+1 680 0501 005 003;1 680 0501;8; General Moreigne;68480;Ferrette
+1 680 0501 005 004;1 680 0501;8; General Moreigne;68480;Ferrette
+1 680 0501 005 005;1 680 0501;8; General Moreigne;68480;Ferrette
+1 680 0501 005 006;1 680 0501;8; General Moreigne;68480;Ferrette
+1 680 0501 005 007;1 680 0501;8; General Moreigne;68480;Ferrette
+1 680 0501 005 008;1 680 0501;8; General Moreigne;68480;Ferrette
+1 680 0501 005 009;1 680 0501;8; General Moreigne;68480;Ferrette
+1 680 0501 005 010;1 680 0501;8; General Moreigne;68480;Ferrette
+1 680 0501 005 011;1 680 0501;8; General Moreigne;68480;Ferrette
+1 680 0501 005 012;1 680 0501;8; General Moreigne;68480;Ferrette
+1 680 0501 005 013;1 680 0501;8; General Moreigne;68480;Ferrette
+1 680 0501 005 014;1 680 0501;8; General Moreigne;68480;Ferrette
+1 680 0501 005 015;1 680 0501;8; General Moreigne;68480;Ferrette
+1 680 0501 005 016;1 680 0501;8; General Moreigne;68480;Ferrette
+1 680 0501 005 017;1 680 0501;8; General Moreigne;68480;Ferrette
+1 680 0501 006 001;1 680 0501;8; General Moreigne;68480;Ferrette
+1 680 0501 006 002;1 680 0501;8; General Moreigne;68480;Ferrette
+1 680 0501 007 001;1 680 0501;8; General Moreigne;68480;Ferrette
+1 680 0501 007 002;1 680 0501;8; General Moreigne;68480;Ferrette
+1 680 0501 007 003;1 680 0501;8; General Moreigne;68480;Ferrette
+1 680 0501 007 004;1 680 0501;8; General Moreigne;68480;Ferrette
+1 680 0501 007 005;1 680 0501;8; General Moreigne;68480;Ferrette
+1 680 0501 007 006;1 680 0501;8; General Moreigne;68480;Ferrette
+1 680 0501 007 007;1 680 0501;8; General Moreigne;68480;Ferrette
+1 680 0501 007 008;1 680 0501;8; General Moreigne;68480;Ferrette
+1 680 0501 007 009;1 680 0501;8; General Moreigne;68480;Ferrette
+1 680 0501 007 010;1 680 0501;8; General Moreigne;68480;Ferrette
+1 680 0501 007 011;1 680 0501;8; General Moreigne;68480;Ferrette
+1 680 0501 008 001;1 680 0501;8; General Moreigne;68480;Ferrette
+1 680 0501 008 002;1 680 0501;8; General Moreigne;68480;Ferrette
+1 680 0501 008 003;1 680 0501;8; General Moreigne;68480;Ferrette
+1 680 0501 008 004;1 680 0501;8; General Moreigne;68480;Ferrette
+1 680 0501 008 005;1 680 0501;8; General Moreigne;68480;Ferrette
+1 680 0501 008 006;1 680 0501;8; General Moreigne;68480;Ferrette
+1 680 0501 008 007;1 680 0501;8; General Moreigne;68480;Ferrette
+1 680 0501 008 008;1 680 0501;8; General Moreigne;68480;Ferrette
+1 680 0501 008 009;1 680 0501;8; General Moreigne;68480;Ferrette
+1 680 0501 008 010;1 680 0501;8; General Moreigne;68480;Ferrette
+1 680 0501 008 011;1 680 0501;8; General Moreigne;68480;Ferrette
+1 680 0501 009 001;1 680 0501;8; General Moreigne;68480;Ferrette
+1 680 0501 009 002;1 680 0501;8; General Moreigne;68480;Ferrette
+1 680 0501 009 003;1 680 0501;8; General Moreigne;68480;Ferrette
+1 680 0501 009 004;1 680 0501;8; General Moreigne;68480;Ferrette
+1 680 0501 009 005;1 680 0501;8; General Moreigne;68480;Ferrette
+1 680 0501 009 006;1 680 0501;8; General Moreigne;68480;Ferrette
+1 680 0501 009 007;1 680 0501;8; General Moreigne;68480;Ferrette
+1 680 0501 009 008;1 680 0501;8; General Moreigne;68480;Ferrette
+1 680 0501 009 009;1 680 0501;8; General Moreigne;68480;Ferrette
+1 680 0501 009 010;1 680 0501;8; General Moreigne;68480;Ferrette
+1 680 0501 009 011;1 680 0501;8; General Moreigne;68480;Ferrette
+1 680 0501 009 012;1 680 0501;8; General Moreigne;68480;Ferrette
+1 680 0501 009 013;1 680 0501;8; General Moreigne;68480;Ferrette
+1 680 0501 009 014;1 680 0501;8; General Moreigne;68480;Ferrette
+1 680 0501 009 015;1 680 0501;8; General Moreigne;68480;Ferrette
+1 680 0501 009 016;1 680 0501;8; General Moreigne;68480;Ferrette
+1 680 0501 009 017;1 680 0501;8; General Moreigne;68480;Ferrette
+1 690 0106 001 001;1 690 0106;;37 bd yves farge;69007;Lyon 7e  Arrondissement
+1 690 0106 001 002;1 690 0106;;37 bd yves farge;69007;Lyon 7e  Arrondissement
+1 690 0106 001 003;1 690 0106;;37 bd yves farge;69007;Lyon 7e  Arrondissement
+1 690 0106 001 004;1 690 0106;;37 bd yves farge;69007;Lyon 7e  Arrondissement
+1 690 0106 001 005;1 690 0106;;37 bd yves farge;69007;Lyon 7e  Arrondissement
+1 690 0106 001 006;1 690 0106;;37 bd yves farge;69007;Lyon 7e  Arrondissement
+1 690 0106 001 007;1 690 0106;;37 bd yves farge;69007;Lyon 7e  Arrondissement
+1 690 0106 001 008;1 690 0106;;37 bd yves farge;69007;Lyon 7e  Arrondissement
+1 690 0106 001 009;1 690 0106;;37 bd yves farge;69007;Lyon 7e  Arrondissement
+1 690 0106 001 010;1 690 0106;;37 bd yves farge;69007;Lyon 7e  Arrondissement
+1 690 0106 001 011;1 690 0106;;37 bd yves farge;69007;Lyon 7e  Arrondissement
+1 690 0106 001 012;1 690 0106;;37 bd yves farge;69007;Lyon 7e  Arrondissement
+1 690 0106 001 013;1 690 0106;;37 bd yves farge;69007;Lyon 7e  Arrondissement
+1 690 0106 001 014;1 690 0106;;37 bd yves farge;69007;Lyon 7e  Arrondissement
+1 690 0106 001 015;1 690 0106;;37 bd yves farge;69007;Lyon 7e  Arrondissement
+1 690 0106 001 016;1 690 0106;;37 bd yves farge;69007;Lyon 7e  Arrondissement
+1 690 0861 001 001;1 690 0861;;VILLA 6H - RUE DE LUYSINE -;69720;Saint-Bonnet-de-Mure
+1 720 0600 002 001;1 720 0600;;bd paixhans;;Le Mans
+1 720 0600 002 002;1 720 0600;;bd paixhans;;Le Mans
+1 720 0600 002 003;1 720 0600;;bd paixhans;;Le Mans
+1 720 0600 002 004;1 720 0600;;bd paixhans;;Le Mans
+1 720 0600 052 001;1 720 0600;;bd paixhans;;Le Mans
+1 720 0600 052 002;1 720 0600;;bd paixhans;;Le Mans
+1 720 0750 015 002;1 720 0750;;bd paixhans;;Le Mans
+1 740 0566 001 001;1 740 0566;;1 rue du 8 mai 1945;74100;Annemasse
+1 740 0566 001 002;1 740 0566;;1 rue du 8 mai 1945;74100;Annemasse
+1 740 0566 001 003;1 740 0566;;1 rue du 8 mai 1945;74100;Annemasse
+1 740 0566 001 004;1 740 0566;;1 rue du 8 mai 1945;74100;Annemasse
+1 740 0566 001 005;1 740 0566;;1 rue du 8 mai 1945;74100;Annemasse
+1 740 0566 001 006;1 740 0566;;1 rue du 8 mai 1945;74100;Annemasse
+1 760 0012 001 001;1 760 0012;;5 rue senard;;Rouen
+1 770 0080 001 001;1 770 0080;;22 av de fontainebleau;77310;Saint-Fargeau-Ponthierry
+1 770 0080 001 002;1 770 0080;;22 av de fontainebleau;77310;Saint-Fargeau-Ponthierry
+1 770 0080 001 003;1 770 0080;;22 av de fontainebleau;77310;Saint-Fargeau-Ponthierry
+1 770 0080 001 004;1 770 0080;;22 av de fontainebleau;77310;Saint-Fargeau-Ponthierry
+1 770 0080 001 005;1 770 0080;;22 av de fontainebleau;77310;Saint-Fargeau-Ponthierry
+1 770 0080 001 006;1 770 0080;;22 av de fontainebleau;77310;Saint-Fargeau-Ponthierry
+1 770 0080 002 007;1 770 0080;;22 av de fontainebleau;77310;Saint-Fargeau-Ponthierry
+1 770 0080 002 008;1 770 0080;;22 av de fontainebleau;77310;Saint-Fargeau-Ponthierry
+1 770 0080 002 009;1 770 0080;;22 av de fontainebleau;77310;Saint-Fargeau-Ponthierry
+1 770 0080 002 010;1 770 0080;;22 av de fontainebleau;77310;Saint-Fargeau-Ponthierry
+1 770 0080 002 011;1 770 0080;;22 av de fontainebleau;77310;Saint-Fargeau-Ponthierry
+1 770 0080 002 012;1 770 0080;;22 av de fontainebleau;77310;Saint-Fargeau-Ponthierry
+1 770 0350 001 001;1 770 0350;;rue danton RESILIE 1/10/2012;77480;Bray-sur-Seine
+1 770 0350 001 002;1 770 0350;;rue danton RESILIE 1/10/2012;77480;Bray-sur-Seine
+1 770 0350 002 003;1 770 0350;;rue danton RESILIE 1/10/2012;77480;Bray-sur-Seine
+1 770 0350 002 004;1 770 0350;;rue danton RESILIE 1/10/2012;77480;Bray-sur-Seine
+1 770 0350 002 005;1 770 0350;;rue danton RESILIE 1/10/2012;77480;Bray-sur-Seine
+1 770 0350 002 006;1 770 0350;;rue danton RESILIE 1/10/2012;77480;Bray-sur-Seine
+1 770 0500 006 380;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 006 381;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 006 382;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 006 383;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 006 384;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 006 385;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 006 386;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 006 387;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 006 388;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 007 389;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 007 390;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 007 391;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 007 392;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 008 379;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 750 001;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 750 002;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 750 003;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 750 004;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 750 005;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 750 006;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 750 007;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 750 008;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 750 009;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 750 010;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 750 011;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 750 012;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 750 013;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 750 014;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 750 015;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 750 016;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 750 017;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 750 018;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 750 019;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 750 020;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 750 021;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 750 022;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 750 023;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 750 024;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 750 025;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 750 026;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 750 027;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 750 028;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 750 029;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 750 030;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 750 031;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 750 032;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 750 033;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 750 034;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 750 035;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 750 036;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 751 037;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 751 038;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 751 039;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 751 040;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 751 041;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 751 042;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 751 043;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 751 044;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 751 045;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 751 046;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 751 047;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 751 048;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 751 049;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 751 050;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 751 051;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 751 052;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 751 053;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 751 054;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 751 055;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 751 056;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 751 057;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 751 058;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 751 059;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 751 060;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 751 061;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 751 062;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 751 063;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 751 064;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 751 065;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 751 066;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 751 067;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 751 068;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 751 069;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 751 070;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 751 071;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 751 072;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 752 073;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 752 074;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 752 075;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 752 076;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 752 077;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 752 078;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 752 079;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 752 080;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 752 081;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 752 082;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 752 083;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 752 084;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 752 085;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 752 086;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 752 087;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 752 088;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 752 089;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 752 090;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 752 091;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 752 092;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 752 093;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 752 094;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 752 095;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 752 096;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 752 097;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 752 098;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 752 099;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 752 100;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 752 101;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 752 102;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 752 103;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 752 104;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 752 105;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 752 106;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 752 107;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 752 108;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 760 109;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 760 110;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 760 111;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 760 112;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 760 113;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 760 114;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 760 115;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 760 116;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 760 117;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 760 118;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 760 119;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 760 120;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 760 121;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 760 122;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 760 123;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 760 124;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 760 125;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 760 126;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 760 127;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 760 128;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 760 129;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 760 130;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 760 131;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 760 132;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 760 133;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 760 134;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 760 135;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 761 136;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 761 137;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 761 138;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 761 139;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 761 140;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 761 141;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 761 142;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 761 143;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 761 144;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 761 145;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 761 146;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 761 147;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 761 148;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 761 149;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 761 150;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 761 151;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 761 152;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 761 153;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 761 154;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 761 155;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 761 156;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 761 157;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 761 158;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 761 159;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 761 160;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 761 161;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 761 162;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 761 163;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 761 164;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 761 165;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 761 166;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 761 167;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 761 168;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 761 169;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 761 170;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 761 171;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 762 172;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 762 173;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 762 174;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 762 175;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 762 176;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 762 177;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 762 178;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 762 179;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 762 180;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 762 181;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 762 182;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 762 183;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 762 184;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 762 185;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 762 186;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 762 187;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 762 188;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 762 189;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 770 190;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 770 191;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 770 192;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 770 193;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 770 194;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 770 195;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 770 196;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 770 197;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 770 198;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 770 199;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 770 200;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 770 201;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 770 202;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 770 203;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 770 204;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 770 205;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 770 206;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 770 207;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 770 208;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 770 209;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 770 210;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 770 211;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 770 212;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 770 213;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 770 214;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 770 215;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 770 216;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 770 217;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 770 218;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 770 219;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 770 220;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 770 221;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 770 222;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 770 223;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 770 224;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 770 225;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 771 226;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 771 227;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 771 228;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 771 229;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 771 230;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 771 231;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 771 232;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 771 233;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 771 234;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 771 235;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 771 236;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 771 237;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 771 238;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 771 239;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 771 240;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 771 241;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 771 242;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 771 243;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 771 244;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 771 245;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 771 246;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 771 247;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 771 248;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 771 249;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 771 250;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 771 251;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 771 252;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 771 253;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 771 254;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 771 255;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 771 256;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 771 257;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 771 258;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 771 259;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 771 260;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 771 261;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 780 262;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 780 263;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 780 264;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 780 265;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 780 266;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 780 267;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 780 268;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 780 269;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 780 270;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 780 271;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 780 272;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 780 273;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 780 274;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 780 275;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 780 276;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 780 277;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 780 278;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 780 279;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 780 280;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 780 281;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 780 282;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 780 283;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 780 284;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 780 285;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 780 286;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 780 287;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 780 288;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 780 289;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 780 290;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 780 291;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 780 292;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 780 293;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 780 294;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 780 295;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 780 296;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 780 297;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 781 298;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 781 299;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 781 300;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 781 301;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 781 302;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 781 303;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 781 304;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 781 305;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 781 306;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 781 307;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 781 308;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 781 309;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 781 310;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 781 311;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 781 312;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 781 313;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 781 314;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 781 315;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 790 316;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 790 317;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 790 318;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 790 319;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 790 320;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 790 321;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 790 322;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 790 323;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 790 324;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 790 325;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 790 326;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 790 327;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 790 328;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 790 329;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 790 330;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 790 331;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 790 332;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 790 333;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 790 334;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 790 335;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 790 336;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 790 337;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 790 338;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 790 339;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 790 340;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 790 341;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 790 342;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 790 343;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 790 344;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 790 345;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 790 346;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 790 347;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 790 348;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 790 349;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 790 350;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 790 351;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 791 352;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 791 353;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 791 354;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 791 355;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 791 356;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 791 357;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 791 358;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 791 359;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 791 360;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 791 361;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 791 362;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 791 363;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 791 364;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 791 365;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 791 366;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 791 367;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 791 368;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 791 369;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 791 370;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 791 371;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 791 372;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 791 373;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 791 374;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 791 375;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 791 376;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 791 377;1 770 0500;54; de corbeil;77000;Melun
+1 770 0500 791 378;1 770 0500;54; de corbeil;77000;Melun
+1 770 0700 003 001;1 770 0700;;Place Georges Clemenceau;77300;Fontainebleau
+1 770 0700 003 002;1 770 0700;;Place Georges Clemenceau;77300;Fontainebleau
+1 770 0700 003 003;1 770 0700;;Place Georges Clemenceau;77300;Fontainebleau
+1 780 0025 001 011;1 780 0025;;1 rue rene bazin;78370;Plaisir
+1 780 0025 001 012;1 780 0025;;1 rue rene bazin;78370;Plaisir
+1 780 0025 001 013;1 780 0025;;1 rue rene bazin;78370;Plaisir
+1 780 0025 001 014;1 780 0025;;1 rue rene bazin;78370;Plaisir
+1 780 0025 003 005;1 780 0025;;1 rue rene bazin;78370;Plaisir
+1 780 0025 003 006;1 780 0025;;1 rue rene bazin;78370;Plaisir
+1 780 0025 003 007;1 780 0025;;1 rue rene bazin;78370;Plaisir
+1 780 0025 003 008;1 780 0025;;1 rue rene bazin;78370;Plaisir
+1 780 0025 003 009;1 780 0025;;1 rue rene bazin;78370;Plaisir
+1 780 0025 003 010;1 780 0025;;1 rue rene bazin;78370;Plaisir
+1 790 0500 001 001;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 001 002;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 001 003;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 001 004;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 001 005;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 001 101;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 001 102;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 001 103;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 001 104;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 001 105;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 001 201;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 001 202;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 001 203;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 001 204;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 001 205;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 002 001;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 002 002;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 002 101;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 002 102;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 002 201;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 002 202;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 003 001;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 003 002;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 003 101;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 003 102;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 003 201;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 003 202;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 004 001;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 004 002;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 004 101;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 004 102;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 004 201;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 004 202;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 005 001;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 005 002;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 005 003;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 005 004;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 005 005;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 005 101;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 005 102;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 005 103;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 005 104;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 005 105;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 005 201;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 005 202;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 005 203;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 005 204;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 005 205;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 006 001;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 006 002;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 006 003;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 006 004;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 006 101;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 006 102;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 006 103;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 006 104;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 006 201;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 006 202;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 007 001;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 007 002;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 007 101;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 007 102;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 007 201;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 007 202;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 008 001;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 008 002;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 008 101;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 008 102;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 008 201;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 008 202;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 009 001;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 009 002;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 009 101;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 009 102;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 009 201;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 009 202;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 010 001;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 010 002;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 010 101;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 010 102;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 010 201;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 010 202;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 011 001;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 011 002;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 011 101;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 011 102;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 011 201;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 011 202;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 012 001;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 012 002;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 012 003;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 012 004;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 012 005;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 012 006;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 012 101;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 012 102;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 012 103;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 012 104;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 012 105;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 012 201;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 012 202;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 012 203;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 012 204;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 012 205;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 023 001;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 023 002;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 024 002;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 025 001;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 050 001;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 050 101;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 050 111;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 050 211;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 051 001;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 051 101;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 051 111;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 051 201;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 051 211;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 051 311;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 052 001;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 052 101;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 052 111;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 052 201;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 052 211;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 052 311;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 053 001;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 053 101;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 053 111;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 053 201;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 053 211;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 053 311;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 054 001;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 054 101;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 054 111;1 790 0500;87;de la Blauderie;79000;Niort
+1 790 0500 054 211;1 790 0500;87;de la Blauderie;79000;Niort
+1 800 0088 001 001;1 800 0088;;10 rue Neuve;80360;Combles
+1 800 0088 001 002;1 800 0088;;10 rue Neuve;80360;Combles
+1 800 0088 001 003;1 800 0088;;10 rue Neuve;80360;Combles
+1 800 0088 001 004;1 800 0088;;10 rue Neuve;80360;Combles
+1 800 0088 001 005;1 800 0088;;10 rue Neuve;80360;Combles
+1 800 0158 005 001;1 800 0158;;82 rue Saint-Fursy;80200;Peronne
+1 800 0158 008 004;1 800 0158;;82 rue Saint-Fursy;80200;Peronne
+1 800 0158 008 005;1 800 0158;;82 rue Saint-Fursy;80200;Peronne
+1 800 0158 008 006;1 800 0158;;82 rue Saint-Fursy;80200;Peronne
+1 800 0158 008 007;1 800 0158;;82 rue Saint-Fursy;80200;Peronne
+1 800 0158 008 008;1 800 0158;;82 rue Saint-Fursy;80200;Peronne
+1 830 0217 001 001;1 830 0217;643;Grignan;83000;Toulon
+1 830 0217 001 002;1 830 0217;643;Grignan;83000;Toulon
+1 830 0217 001 003;1 830 0217;643;Grignan;83000;Toulon
+1 830 0217 001 004;1 830 0217;643;Grignan;83000;Toulon
+1 830 0217 001 005;1 830 0217;643;Grignan;83000;Toulon
+1 830 0217 001 006;1 830 0217;643;Grignan;83000;Toulon
+1 830 0217 001 007;1 830 0217;643;Grignan;83000;Toulon
+1 830 0217 001 008;1 830 0217;643;Grignan;83000;Toulon
+1 830 0217 001 009;1 830 0217;643;Grignan;83000;Toulon
+1 830 0217 001 010;1 830 0217;643;Grignan;83000;Toulon
+1 830 0217 001 011;1 830 0217;643;Grignan;83000;Toulon
+1 830 0217 001 012;1 830 0217;643;Grignan;83000;Toulon
+1 830 0217 001 013;1 830 0217;643;Grignan;83000;Toulon
+1 830 0217 001 014;1 830 0217;643;Grignan;83000;Toulon
+1 830 0217 001 015;1 830 0217;643;Grignan;83000;Toulon
+1 830 0217 001 016;1 830 0217;643;Grignan;83000;Toulon
+1 830 0217 001 017;1 830 0217;643;Grignan;83000;Toulon
+1 830 0217 001 018;1 830 0217;643;Grignan;83000;Toulon
+1 830 0217 001 019;1 830 0217;643;Grignan;83000;Toulon
+1 830 0217 001 020;1 830 0217;643;Grignan;83000;Toulon
+1 830 0217 001 021;1 830 0217;643;Grignan;83000;Toulon
+1 830 0217 001 022;1 830 0217;643;Grignan;83000;Toulon
+1 830 0217 001 023;1 830 0217;643;Grignan;83000;Toulon
+1 830 0217 001 024;1 830 0217;643;Grignan;83000;Toulon
+1 830 0217 001 025;1 830 0217;643;Grignan;83000;Toulon
+1 830 0217 001 026;1 830 0217;643;Grignan;83000;Toulon
+1 830 0217 001 027;1 830 0217;643;Grignan;83000;Toulon
+1 830 0217 001 028;1 830 0217;643;Grignan;83000;Toulon
+1 830 0217 001 101;1 830 0217;643;Grignan;83000;Toulon
+1 830 0217 001 102;1 830 0217;643;Grignan;83000;Toulon
+1 830 0217 001 103;1 830 0217;643;Grignan;83000;Toulon
+1 830 0217 001 104;1 830 0217;643;Grignan;83000;Toulon
+1 830 0217 001 105;1 830 0217;643;Grignan;83000;Toulon
+1 830 0217 001 106;1 830 0217;643;Grignan;83000;Toulon
+1 830 0217 001 107;1 830 0217;643;Grignan;83000;Toulon
+1 830 0217 002 001;1 830 0217;643;Grignan;83000;Toulon
+1 830 0217 002 002;1 830 0217;643;Grignan;83000;Toulon
+1 830 0217 002 003;1 830 0217;643;Grignan;83000;Toulon
+1 830 0217 002 004;1 830 0217;643;Grignan;83000;Toulon
+1 830 0217 002 005;1 830 0217;643;Grignan;83000;Toulon
+1 830 0217 002 006;1 830 0217;643;Grignan;83000;Toulon
+1 830 0217 002 007;1 830 0217;643;Grignan;83000;Toulon
+1 830 0217 002 008;1 830 0217;643;Grignan;83000;Toulon
+1 830 0217 002 009;1 830 0217;643;Grignan;83000;Toulon
+1 830 0217 002 010;1 830 0217;643;Grignan;83000;Toulon
+1 830 0217 002 011;1 830 0217;643;Grignan;83000;Toulon
+1 830 0217 002 012;1 830 0217;643;Grignan;83000;Toulon
+1 850 0029 001 003;1 850 0029;;26 ave villebois mareuil;;Montaigu
+1 850 0029 002 001;1 850 0029;;26 ave villebois mareuil;;Montaigu
+1 850 0029 002 002;1 850 0029;;26 ave villebois mareuil;;Montaigu
+1 850 0029 002 003;1 850 0029;;26 ave villebois mareuil;;Montaigu
+1 850 0029 002 004;1 850 0029;;26 ave villebois mareuil;;Montaigu
+1 850 0029 002 005;1 850 0029;;26 ave villebois mareuil;;Montaigu
+1 850 0029 002 006;1 850 0029;;26 ave villebois mareuil;;Montaigu
+1 850 0029 002 007;1 850 0029;;26 ave villebois mareuil;;Montaigu
+1 860 0016 001 001;1 860 0016;;5 bd aristide briand;86100;Chetellerault
+1 860 0016 001 002;1 860 0016;;5 bd aristide briand;86100;Chetellerault
+1 860 0016 001 003;1 860 0016;;5 bd aristide briand;86100;Chetellerault
+1 860 0016 001 004;1 860 0016;;5 bd aristide briand;86100;Chetellerault
+1 860 0016 001 005;1 860 0016;;5 bd aristide briand;86100;Chetellerault
+1 860 0016 001 006;1 860 0016;;5 bd aristide briand;86100;Chetellerault
+1 860 0016 001 007;1 860 0016;;5 bd aristide briand;86100;Chetellerault
+1 860 0016 001 008;1 860 0016;;5 bd aristide briand;86100;Chetellerault
+1 860 0016 001 009;1 860 0016;;5 bd aristide briand;86100;Chetellerault
+1 860 0016 001 010;1 860 0016;;5 bd aristide briand;86100;Chetellerault
+1 860 0016 002 001;1 860 0016;;5 bd aristide briand;86100;Chetellerault
+1 860 0016 011 011;1 860 0016;;5 bd aristide briand;86100;Chetellerault
+1 860 0016 011 012;1 860 0016;;5 bd aristide briand;86100;Chetellerault
+1 860 0016 011 013;1 860 0016;;5 bd aristide briand;86100;Chetellerault
+1 860 0016 011 014;1 860 0016;;5 bd aristide briand;86100;Chetellerault
+1 860 0016 011 015;1 860 0016;;5 bd aristide briand;86100;Chetellerault
+1 860 0016 011 016;1 860 0016;;5 bd aristide briand;86100;Chetellerault
+1 860 0016 011 017;1 860 0016;;5 bd aristide briand;86100;Chetellerault
+1 860 0016 011 018;1 860 0016;;5 bd aristide briand;86100;Chetellerault
+1 860 0016 011 019;1 860 0016;;5 bd aristide briand;86100;Chetellerault
+1 860 0016 011 020;1 860 0016;;5 bd aristide briand;86100;Chetellerault
+1 860 0016 011 021;1 860 0016;;5 bd aristide briand;86100;Chetellerault
+1 860 0016 011 022;1 860 0016;;5 bd aristide briand;86100;Chetellerault
+1 860 0016 011 023;1 860 0016;;5 bd aristide briand;86100;Chetellerault
+1 860 0016 011 024;1 860 0016;;5 bd aristide briand;86100;Chetellerault
+1 860 0604 001 001;1 860 0604;;envigne;86100;Chetellerault
+1 860 0604 003 001;1 860 0604;;envigne;86100;Chetellerault
+1 860 0604 005 001;1 860 0604;;envigne;86100;Chetellerault
+1 870 0027 001 001;1 870 0027;;de Bussiere;87210;Le Dorat
+1 870 0027 001 002;1 870 0027;;de Bussiere;87210;Le Dorat
+1 870 0027 001 003;1 870 0027;;de Bussiere;87210;Le Dorat
+1 870 0027 001 004;1 870 0027;;de Bussiere;87210;Le Dorat
+1 870 0027 001 005;1 870 0027;;de Bussiere;87210;Le Dorat
+1 870 0027 001 006;1 870 0027;;de Bussiere;87210;Le Dorat
+1 870 0027 001 007;1 870 0027;;de Bussiere;87210;Le Dorat
+1 930 0220 001 101;1 930 0220;;2 rue jean moulin;;Saint-Denis
+1 930 0220 001 111;1 930 0220;;2 rue jean moulin;;Saint-Denis
+1 930 0220 001 112;1 930 0220;;2 rue jean moulin;;Saint-Denis
+1 930 0220 001 121;1 930 0220;;2 rue jean moulin;;Saint-Denis
+1 930 0220 001 122;1 930 0220;;2 rue jean moulin;;Saint-Denis
+1 930 0220 001 131;1 930 0220;;2 rue jean moulin;;Saint-Denis
+1 930 0220 001 132;1 930 0220;;2 rue jean moulin;;Saint-Denis
+1 930 0220 001 141;1 930 0220;;2 rue jean moulin;;Saint-Denis
+1 930 0220 001 142;1 930 0220;;2 rue jean moulin;;Saint-Denis
+1 930 0220 001 151;1 930 0220;;2 rue jean moulin;;Saint-Denis
+1 930 0220 001 152;1 930 0220;;2 rue jean moulin;;Saint-Denis
+1 930 0220 002 201;1 930 0220;;2 rue jean moulin;;Saint-Denis
+1 930 0220 002 202;1 930 0220;;2 rue jean moulin;;Saint-Denis
+1 930 0220 002 211;1 930 0220;;2 rue jean moulin;;Saint-Denis
+1 930 0220 002 212;1 930 0220;;2 rue jean moulin;;Saint-Denis
+1 930 0220 002 221;1 930 0220;;2 rue jean moulin;;Saint-Denis
+1 930 0220 002 222;1 930 0220;;2 rue jean moulin;;Saint-Denis
+1 930 0220 002 231;1 930 0220;;2 rue jean moulin;;Saint-Denis
+1 930 0220 002 232;1 930 0220;;2 rue jean moulin;;Saint-Denis
+1 930 0220 002 241;1 930 0220;;2 rue jean moulin;;Saint-Denis
+1 930 0220 002 242;1 930 0220;;2 rue jean moulin;;Saint-Denis
+1 930 0220 002 251;1 930 0220;;2 rue jean moulin;;Saint-Denis
+1 930 0220 002 252;1 930 0220;;2 rue jean moulin;;Saint-Denis
+1 930 0220 003 301;1 930 0220;;2 rue jean moulin;;Saint-Denis
+1 930 0220 003 311;1 930 0220;;2 rue jean moulin;;Saint-Denis
+1 930 0220 003 321;1 930 0220;;2 rue jean moulin;;Saint-Denis
+1 930 0220 003 331;1 930 0220;;2 rue jean moulin;;Saint-Denis
+1 930 0220 003 341;1 930 0220;;2 rue jean moulin;;Saint-Denis
+1 930 0220 003 351;1 930 0220;;2 rue jean moulin;;Saint-Denis
+1 930 0500 004 001;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 004 002;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 004 003;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 004 004;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 004 005;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 004 006;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 004 007;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 004 008;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 004 009;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 004 010;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 004 011;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 004 012;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 004 013;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 004 014;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 004 015;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 004 016;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 004 017;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 004 018;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 004 019;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 004 020;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 004 021;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 004 022;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 004 023;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 004 024;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 004 025;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 006 001;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 006 002;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 006 003;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 006 004;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 006 005;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 006 011;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 006 012;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 006 013;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 006 014;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 006 015;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 006 016;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 006 021;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 006 022;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 006 023;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 006 024;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 006 025;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 006 026;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 006 031;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 006 032;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 006 033;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 006 034;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 006 035;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 006 036;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 006 041;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 006 042;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 006 043;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 006 044;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 006 045;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 006 046;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 006 051;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 006 052;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 006 053;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 006 054;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 006 055;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 006 056;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 006 061;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 006 062;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 006 063;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 006 064;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 006 065;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 006 066;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 006 071;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 006 072;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 006 073;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 006 074;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 006 075;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 006 076;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 006 081;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 006 082;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 006 083;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 006 084;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 006 085;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 006 086;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 006 091;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 006 092;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 006 093;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 006 094;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 006 095;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 006 096;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 006 101;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 006 102;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 006 103;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 006 104;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 006 105;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 006 106;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 006 111;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 006 112;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 006 113;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 006 114;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 006 115;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 006 116;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 006 121;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 006 122;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 006 123;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 006 124;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 006 125;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 006 126;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 006 131;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 006 132;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 006 133;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 006 134;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 006 135;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 006 136;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 006 141;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 006 142;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 007 001;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 007 002;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 007 003;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 007 004;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 007 005;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 007 011;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 007 012;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 007 013;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 007 014;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 007 015;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 007 016;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 007 021;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 007 022;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 007 023;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 007 024;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 007 025;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 007 026;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 007 031;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 007 032;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 007 033;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 007 034;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 007 035;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 007 036;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 007 041;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 007 042;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 007 043;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 007 044;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 007 045;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 007 046;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 007 051;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 007 052;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 007 053;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 007 054;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 007 055;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 007 056;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 007 061;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 007 062;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 007 063;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 007 064;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 007 065;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 007 066;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 007 071;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 007 072;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 007 073;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 007 074;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 007 075;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 007 076;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 007 081;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 007 082;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 007 083;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 007 084;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 007 085;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 007 086;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 007 091;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 007 092;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 007 093;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 007 094;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 007 095;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 007 096;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 007 101;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 007 102;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 007 103;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 007 104;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 007 105;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 007 106;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 007 111;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 007 112;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 007 113;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 007 114;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 007 115;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 007 116;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 007 121;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 007 122;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 007 123;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 007 124;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 007 125;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 007 126;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 007 131;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 007 132;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 007 133;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 007 134;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 007 135;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 007 136;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 007 141;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 007 142;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 008 001;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 008 002;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 008 003;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 008 004;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 008 005;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 008 011;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 008 012;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 008 013;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 008 014;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 008 015;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 008 016;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 008 021;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 008 022;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 008 023;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 008 024;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 008 025;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 008 026;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 008 031;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 008 032;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 008 033;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 008 034;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 008 035;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 008 036;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 008 041;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 008 042;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 008 043;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 008 044;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 008 045;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 008 046;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 008 051;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 008 052;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 008 053;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 008 054;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 008 055;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 008 056;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 008 061;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 008 062;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 008 063;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 008 064;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 008 065;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 008 066;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 008 071;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 008 072;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 008 073;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 008 074;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 008 075;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 008 076;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 008 081;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 008 082;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 008 083;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 008 084;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 008 085;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 008 086;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 008 091;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 008 092;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 008 093;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 008 094;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 008 095;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 008 096;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 008 101;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 008 102;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 008 103;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 008 104;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 008 105;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 008 106;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 008 111;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 008 112;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 008 113;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 008 114;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 008 115;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 008 116;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 008 121;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 008 122;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 008 123;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 008 124;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 008 125;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 008 126;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 008 131;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 008 132;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 008 133;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 008 134;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 008 135;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 008 136;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 008 141;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 008 142;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 009 001;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 009 002;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 009 003;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 009 004;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 009 005;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 009 011;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 009 012;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 009 013;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 009 014;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 009 015;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 009 016;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 009 021;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 009 022;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 009 023;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 009 024;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 009 025;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 009 026;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 009 031;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 009 032;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 009 033;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 009 034;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 009 035;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 009 036;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 009 041;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 009 042;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 009 043;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 009 044;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 009 045;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 009 046;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 009 051;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 009 052;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 009 053;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 009 054;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 009 055;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 009 056;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 009 061;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 009 062;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 009 063;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 009 064;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 009 065;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 009 066;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 009 071;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 009 072;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 009 073;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 009 074;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 009 075;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 009 076;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 009 081;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 009 082;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 009 083;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 009 084;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 009 085;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 009 086;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 009 091;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 009 092;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 009 093;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 009 094;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 009 095;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 009 096;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 009 101;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 009 102;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 009 103;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 009 104;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 009 105;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 009 106;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 009 111;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 009 112;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 009 113;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 009 114;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 009 115;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 009 116;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 009 121;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 009 122;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 009 123;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 009 124;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 009 125;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 009 126;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 009 131;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 009 132;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 009 133;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 009 134;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 009 135;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 009 136;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 009 141;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 009 142;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 010 001;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 010 002;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 010 003;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 010 004;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 010 005;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 010 011;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 010 012;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 010 013;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 010 014;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 010 015;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 010 016;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 010 021;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 010 022;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 010 023;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 010 024;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 010 025;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 010 026;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 010 031;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 010 032;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 010 033;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 010 034;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 010 035;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 010 036;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 010 041;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 010 042;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 010 043;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 010 044;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 010 045;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 010 046;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 010 051;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 010 052;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 010 053;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 010 054;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 010 055;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 010 056;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 010 061;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 010 062;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 010 063;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 010 064;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 010 065;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 010 066;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 010 071;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 010 072;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 010 073;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 010 074;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 010 075;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 010 076;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 010 081;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 010 082;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 010 083;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 010 084;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 010 085;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 010 086;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 010 091;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 010 092;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 010 093;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 010 094;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 010 095;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 010 096;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 010 101;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 010 102;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 010 103;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 010 104;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 010 105;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 010 106;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 010 111;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 010 112;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 010 113;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 010 114;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 010 115;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 010 116;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 010 121;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 010 122;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 010 123;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 010 124;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 010 125;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 010 126;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 010 131;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 010 132;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 010 133;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 010 134;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 010 135;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 010 136;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 010 141;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 010 142;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 011 001;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 011 002;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 011 003;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 011 004;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 012 005;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 012 006;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 012 007;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 012 008;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 012 009;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 012 010;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 012 011;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 012 012;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 013 013;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 013 014;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 013 015;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0500 013 016;1 930 0500;172; jean jaures;93300;Aubervilliers
+1 930 0540 001 101;1 930 0540;2;de la courneuve;93200;Saint-Denis
+1 930 0540 001 102;1 930 0540;2;de la courneuve;93200;Saint-Denis
+1 930 0540 002 103;1 930 0540;2;de la courneuve;93200;Saint-Denis
+1 930 0540 002 104;1 930 0540;2;de la courneuve;93200;Saint-Denis
+1 930 0540 024 001;1 930 0540;2;de la courneuve;93200;Saint-Denis
+1 930 0540 024 002;1 930 0540;2;de la courneuve;93200;Saint-Denis
+1 930 0540 024 003;1 930 0540;2;de la courneuve;93200;Saint-Denis
+1 930 0540 024 004;1 930 0540;2;de la courneuve;93200;Saint-Denis
+1 930 0540 024 005;1 930 0540;2;de la courneuve;93200;Saint-Denis
+1 930 0540 024 006;1 930 0540;2;de la courneuve;93200;Saint-Denis
+1 930 0540 025 073;1 930 0540;2;de la courneuve;93200;Saint-Denis
+1 930 0540 025 074;1 930 0540;2;de la courneuve;93200;Saint-Denis
+1 930 0540 026 007;1 930 0540;2;de la courneuve;93200;Saint-Denis
+1 930 0540 026 009;1 930 0540;2;de la courneuve;93200;Saint-Denis
+1 930 0540 026 011;1 930 0540;2;de la courneuve;93200;Saint-Denis
+1 930 0540 026 013;1 930 0540;2;de la courneuve;93200;Saint-Denis
+1 930 0540 026 015;1 930 0540;2;de la courneuve;93200;Saint-Denis
+1 930 0540 026 016;1 930 0540;2;de la courneuve;93200;Saint-Denis
+1 930 0540 026 017;1 930 0540;2;de la courneuve;93200;Saint-Denis
+1 930 0540 026 018;1 930 0540;2;de la courneuve;93200;Saint-Denis
+1 930 0540 027 019;1 930 0540;2;de la courneuve;93200;Saint-Denis
+1 930 0540 027 020;1 930 0540;2;de la courneuve;93200;Saint-Denis
+1 930 0540 027 021;1 930 0540;2;de la courneuve;93200;Saint-Denis
+1 930 0540 027 022;1 930 0540;2;de la courneuve;93200;Saint-Denis
+1 930 0540 027 023;1 930 0540;2;de la courneuve;93200;Saint-Denis
+1 930 0540 027 024;1 930 0540;2;de la courneuve;93200;Saint-Denis
+1 930 0540 028 025;1 930 0540;2;de la courneuve;93200;Saint-Denis
+1 930 0540 028 026;1 930 0540;2;de la courneuve;93200;Saint-Denis
+1 930 0540 028 027;1 930 0540;2;de la courneuve;93200;Saint-Denis
+1 930 0540 028 028;1 930 0540;2;de la courneuve;93200;Saint-Denis
+1 930 0540 028 029;1 930 0540;2;de la courneuve;93200;Saint-Denis
+1 930 0540 028 030;1 930 0540;2;de la courneuve;93200;Saint-Denis
+1 930 0540 029 037;1 930 0540;2;de la courneuve;93200;Saint-Denis
+1 930 0540 029 039;1 930 0540;2;de la courneuve;93200;Saint-Denis
+1 930 0540 029 041;1 930 0540;2;de la courneuve;93200;Saint-Denis
+1 930 0540 029 043;1 930 0540;2;de la courneuve;93200;Saint-Denis
+1 930 0540 029 045;1 930 0540;2;de la courneuve;93200;Saint-Denis
+1 930 0540 029 046;1 930 0540;2;de la courneuve;93200;Saint-Denis
+1 930 0540 029 047;1 930 0540;2;de la courneuve;93200;Saint-Denis
+1 930 0540 029 048;1 930 0540;2;de la courneuve;93200;Saint-Denis
+1 930 0540 030 031;1 930 0540;2;de la courneuve;93200;Saint-Denis
+1 930 0540 030 032;1 930 0540;2;de la courneuve;93200;Saint-Denis
+1 930 0540 030 033;1 930 0540;2;de la courneuve;93200;Saint-Denis
+1 930 0540 030 034;1 930 0540;2;de la courneuve;93200;Saint-Denis
+1 930 0540 030 035;1 930 0540;2;de la courneuve;93200;Saint-Denis
+1 930 0540 030 036;1 930 0540;2;de la courneuve;93200;Saint-Denis
+1 930 0540 031 049;1 930 0540;2;de la courneuve;93200;Saint-Denis
+1 930 0540 031 050;1 930 0540;2;de la courneuve;93200;Saint-Denis
+1 930 0540 031 051;1 930 0540;2;de la courneuve;93200;Saint-Denis
+1 930 0540 031 052;1 930 0540;2;de la courneuve;93200;Saint-Denis
+1 930 0540 031 053;1 930 0540;2;de la courneuve;93200;Saint-Denis
+1 930 0540 031 054;1 930 0540;2;de la courneuve;93200;Saint-Denis
+1 930 0540 032 055;1 930 0540;2;de la courneuve;93200;Saint-Denis
+1 930 0540 032 056;1 930 0540;2;de la courneuve;93200;Saint-Denis
+1 930 0540 032 057;1 930 0540;2;de la courneuve;93200;Saint-Denis
+1 930 0540 032 059;1 930 0540;2;de la courneuve;93200;Saint-Denis
+1 930 0540 032 061;1 930 0540;2;de la courneuve;93200;Saint-Denis
+1 930 0540 032 063;1 930 0540;2;de la courneuve;93200;Saint-Denis
+1 930 0540 032 064;1 930 0540;2;de la courneuve;93200;Saint-Denis
+1 930 0540 032 065;1 930 0540;2;de la courneuve;93200;Saint-Denis
+1 930 0540 032 066;1 930 0540;2;de la courneuve;93200;Saint-Denis
+1 930 0540 033 067;1 930 0540;2;de la courneuve;93200;Saint-Denis
+1 930 0540 033 068;1 930 0540;2;de la courneuve;93200;Saint-Denis
+1 930 0540 033 069;1 930 0540;2;de la courneuve;93200;Saint-Denis
+1 930 0540 033 070;1 930 0540;2;de la courneuve;93200;Saint-Denis
+1 930 0540 033 071;1 930 0540;2;de la courneuve;93200;Saint-Denis
+1 930 0540 033 072;1 930 0540;2;de la courneuve;93200;Saint-Denis
+1 940 0027 001 001;1 940 0027;10;10 a 14 av de l europe;94190;Villeneuve-Saint-Georges
+1 940 0027 001 002;1 940 0027;10;10 a 14 av de l europe;94190;Villeneuve-Saint-Georges
+1 940 0027 001 003;1 940 0027;10;10 a 14 av de l europe;94190;Villeneuve-Saint-Georges
+1 940 0027 001 004;1 940 0027;10;10 a 14 av de l europe;94190;Villeneuve-Saint-Georges
+1 940 0027 003 005;1 940 0027;10;10 a 14 av de l europe;94190;Villeneuve-Saint-Georges
+1 940 0027 003 006;1 940 0027;10;10 a 14 av de l europe;94190;Villeneuve-Saint-Georges
+1 940 0027 003 007;1 940 0027;10;10 a 14 av de l europe;94190;Villeneuve-Saint-Georges
+1 940 0027 004 008;1 940 0027;10;10 a 14 av de l europe;94190;Villeneuve-Saint-Georges
+1 940 0027 004 009;1 940 0027;10;10 a 14 av de l europe;94190;Villeneuve-Saint-Georges
+1 940 0027 004 010;1 940 0027;10;10 a 14 av de l europe;94190;Villeneuve-Saint-Georges
+1 940 0028 002 001;1 940 0028;;1 rue du languedoc;;Chevilly-Larue
+1 940 0028 002 002;1 940 0028;;1 rue du languedoc;;Chevilly-Larue
+1 940 0028 002 003;1 940 0028;;1 rue du languedoc;;Chevilly-Larue
+1 940 0028 002 004;1 940 0028;;1 rue du languedoc;;Chevilly-Larue
+1 940 0028 002 005;1 940 0028;;1 rue du languedoc;;Chevilly-Larue
+1 940 0028 002 006;1 940 0028;;1 rue du languedoc;;Chevilly-Larue
+1 940 0028 002 007;1 940 0028;;1 rue du languedoc;;Chevilly-Larue
+1 940 0028 002 008;1 940 0028;;1 rue du languedoc;;Chevilly-Larue
+1 940 0028 002 009;1 940 0028;;1 rue du languedoc;;Chevilly-Larue
+1 940 0028 002 010;1 940 0028;;1 rue du languedoc;;Chevilly-Larue
+1 940 1051 001 001;1 940 1051;;BAT 828 - RUE NUNGESSER;94290;Villeneuve-le-Roi
+1 940 1051 001 002;1 940 1051;;BAT 828 - RUE NUNGESSER;94290;Villeneuve-le-Roi
+1 940 1051 001 003;1 940 1051;;BAT 828 - RUE NUNGESSER;94290;Villeneuve-le-Roi
+1 940 1051 001 004;1 940 1051;;BAT 828 - RUE NUNGESSER;94290;Villeneuve-le-Roi
+1 940 1051 001 005;1 940 1051;;BAT 828 - RUE NUNGESSER;94290;Villeneuve-le-Roi
+1 940 1051 001 006;1 940 1051;;BAT 828 - RUE NUNGESSER;94290;Villeneuve-le-Roi
+1 940 1051 001 007;1 940 1051;;BAT 828 - RUE NUNGESSER;94290;Villeneuve-le-Roi
+1 940 1051 001 008;1 940 1051;;BAT 828 - RUE NUNGESSER;94290;Villeneuve-le-Roi
+1 940 1051 001 009;1 940 1051;;BAT 828 - RUE NUNGESSER;94290;Villeneuve-le-Roi
+1 940 1051 001 010;1 940 1051;;BAT 828 - RUE NUNGESSER;94290;Villeneuve-le-Roi
+1 940 1051 001 011;1 940 1051;;BAT 828 - RUE NUNGESSER;94290;Villeneuve-le-Roi
+1 940 1051 001 012;1 940 1051;;BAT 828 - RUE NUNGESSER;94290;Villeneuve-le-Roi
+1 940 1052 001 001;1 940 1052;;BAT 829 - RUE NUNGESSER;94290;Villeneuve-le-Roi
+1 940 1052 001 002;1 940 1052;;BAT 829 - RUE NUNGESSER;94290;Villeneuve-le-Roi
+1 940 1052 001 003;1 940 1052;;BAT 829 - RUE NUNGESSER;94290;Villeneuve-le-Roi
+1 940 1052 001 004;1 940 1052;;BAT 829 - RUE NUNGESSER;94290;Villeneuve-le-Roi
+1 940 1052 001 005;1 940 1052;;BAT 829 - RUE NUNGESSER;94290;Villeneuve-le-Roi
+1 940 1052 001 006;1 940 1052;;BAT 829 - RUE NUNGESSER;94290;Villeneuve-le-Roi
+1 940 1052 001 007;1 940 1052;;BAT 829 - RUE NUNGESSER;94290;Villeneuve-le-Roi
+1 940 1052 001 008;1 940 1052;;BAT 829 - RUE NUNGESSER;94290;Villeneuve-le-Roi
+1 940 1052 001 009;1 940 1052;;BAT 829 - RUE NUNGESSER;94290;Villeneuve-le-Roi
+1 940 1052 001 010;1 940 1052;;BAT 829 - RUE NUNGESSER;94290;Villeneuve-le-Roi
+1 940 1052 001 011;1 940 1052;;BAT 829 - RUE NUNGESSER;94290;Villeneuve-le-Roi
+1 940 1052 001 012;1 940 1052;;BAT 829 - RUE NUNGESSER;94290;Villeneuve-le-Roi
+1 950 0025 001 001;1 950 0025;;4 pl cesbron;95640;Marines
+1 950 0025 001 002;1 950 0025;;4 pl cesbron;95640;Marines
+1 950 0025 003 003;1 950 0025;;4 pl cesbron;95640;Marines
+1 950 0025 003 004;1 950 0025;;4 pl cesbron;95640;Marines
+1 950 0025 003 005;1 950 0025;;4 pl cesbron;95640;Marines
+1 950 0025 003 006;1 950 0025;;4 pl cesbron;95640;Marines
+1 950 0121 001 001;1 950 0121;;143 rue de paris;95380;Louvres
+1 950 0121 001 002;1 950 0121;;143 rue de paris;95380;Louvres
+1 950 0121 001 003;1 950 0121;;143 rue de paris;95380;Louvres
+1 950 0121 002 004;1 950 0121;;143 rue de paris;95380;Louvres
+1 950 0121 002 005;1 950 0121;;143 rue de paris;95380;Louvres
+1 950 0121 003 006;1 950 0121;;143 rue de paris;95380;Louvres
+1 950 0121 003 007;1 950 0121;;143 rue de paris;95380;Louvres
+1 950 0121 003 008;1 950 0121;;143 rue de paris;95380;Louvres
+1 950 0121 003 009;1 950 0121;;143 rue de paris;95380;Louvres
+2 971 0022 001 001;2 971 0022;;2 rue lamartine;97110;Pointe A Pitre
+2 971 0022 001 002;2 971 0022;;2 rue lamartine;97110;Pointe A Pitre
+2 971 0022 001 004;2 971 0022;;2 rue lamartine;97110;Pointe A Pitre
+2 971 0022 001 005;2 971 0022;;2 rue lamartine;97110;Pointe A Pitre
+2 971 0022 001 006;2 971 0022;;2 rue lamartine;97110;Pointe A Pitre
+2 971 0022 001 007;2 971 0022;;2 rue lamartine;97110;Pointe A Pitre
+2 971 0022 001 008;2 971 0022;;2 rue lamartine;97110;Pointe A Pitre
+2 971 0022 001 009;2 971 0022;;2 rue lamartine;97110;Pointe A Pitre
+2 971 0022 001 011;2 971 0022;;2 rue lamartine;97110;Pointe A Pitre
+2 971 0022 001 012;2 971 0022;;2 rue lamartine;97110;Pointe A Pitre
+2 971 0022 001 013;2 971 0022;;2 rue lamartine;97110;Pointe A Pitre
+2 971 0022 001 014;2 971 0022;;2 rue lamartine;97110;Pointe A Pitre
+2 971 0024 001 001;2 971 0024;;lieudit redeau;97116;Pointe Noire
+2 971 0024 001 002;2 971 0024;;lieudit redeau;97116;Pointe Noire
+2 971 0024 002 001;2 971 0024;;lieudit redeau;97116;Pointe Noire
+2 971 0024 002 002;2 971 0024;;lieudit redeau;97116;Pointe Noire
+2 971 0044 001 001;2 971 0044;;bd gouverneur gal f eboue;97100;Basse Terre
+2 971 0044 001 002;2 971 0044;;bd gouverneur gal f eboue;97100;Basse Terre
+2 971 0044 001 003;2 971 0044;;bd gouverneur gal f eboue;97100;Basse Terre
+2 971 0044 001 004;2 971 0044;;bd gouverneur gal f eboue;97100;Basse Terre
+2 971 0044 001 005;2 971 0044;;bd gouverneur gal f eboue;97100;Basse Terre
+2 971 0044 001 006;2 971 0044;;bd gouverneur gal f eboue;97100;Basse Terre
+2 971 0044 001 007;2 971 0044;;bd gouverneur gal f eboue;97100;Basse Terre
+2 971 0044 001 008;2 971 0044;;bd gouverneur gal f eboue;97100;Basse Terre
+2 971 0044 001 009;2 971 0044;;bd gouverneur gal f eboue;97100;Basse Terre
+2 971 0044 001 010;2 971 0044;;bd gouverneur gal f eboue;97100;Basse Terre
+2 971 0044 001 011;2 971 0044;;bd gouverneur gal f eboue;97100;Basse Terre
+2 971 0044 001 012;2 971 0044;;bd gouverneur gal f eboue;97100;Basse Terre
+2 971 0044 001 013;2 971 0044;;bd gouverneur gal f eboue;97100;Basse Terre
+2 971 0044 001 014;2 971 0044;;bd gouverneur gal f eboue;97100;Basse Terre
+2 971 0044 001 015;2 971 0044;;bd gouverneur gal f eboue;97100;Basse Terre
+2 971 0044 001 016;2 971 0044;;bd gouverneur gal f eboue;97100;Basse Terre
+2 971 0044 001 017;2 971 0044;;bd gouverneur gal f eboue;97100;Basse Terre
+2 971 0044 001 018;2 971 0044;;bd gouverneur gal f eboue;97100;Basse Terre
+2 971 0044 008 001;2 971 0044;;bd gouverneur gal f eboue;97100;Basse Terre
+2 971 0044 008 002;2 971 0044;;bd gouverneur gal f eboue;97100;Basse Terre
+2 971 0044 008 003;2 971 0044;;bd gouverneur gal f eboue;97100;Basse Terre
+2 971 0044 008 004;2 971 0044;;bd gouverneur gal f eboue;97100;Basse Terre
+2 971 0044 008 005;2 971 0044;;bd gouverneur gal f eboue;97100;Basse Terre
+2 971 0044 008 006;2 971 0044;;bd gouverneur gal f eboue;97100;Basse Terre
+2 971 0044 008 007;2 971 0044;;bd gouverneur gal f eboue;97100;Basse Terre
+2 971 0044 008 008;2 971 0044;;bd gouverneur gal f eboue;97100;Basse Terre
+2 971 0047 001 001;2 971 0047;;lieudit mouillage;97137;Terre De Haut
+2 971 0047 001 002;2 971 0047;;lieudit mouillage;97137;Terre De Haut
+2 973 0004 004 001;2 973 0004;;avenue louis pasteur;97300;Cayenne
+2 973 0004 005 001;2 973 0004;;avenue louis pasteur;97300;Cayenne
+2 973 0004 007 001;2 973 0004;;avenue louis pasteur;97300;Cayenne
+2 973 0004 008 001;2 973 0004;;avenue louis pasteur;97300;Cayenne
+2 973 0004 009 001;2 973 0004;;avenue louis pasteur;97300;Cayenne
+2 973 0004 010 001;2 973 0004;;avenue louis pasteur;97300;Cayenne
+2 973 0021 004 001;2 973 0021;;de l'Aigle;97315;Sinnamary
+2 973 0021 004 002;2 973 0021;;de l'Aigle;97315;Sinnamary
+2 973 0021 004 003;2 973 0021;;de l'Aigle;97315;Sinnamary
+2 973 0217 001 100;2 973 0217;;avenue louis pasteur;97300;Cayenne
+2 973 0217 001 101;2 973 0217;;avenue louis pasteur;97300;Cayenne
+2 973 0217 001 102;2 973 0217;;avenue louis pasteur;97300;Cayenne
+2 973 0217 001 103;2 973 0217;;avenue louis pasteur;97300;Cayenne
+2 973 0217 001 104;2 973 0217;;avenue louis pasteur;97300;Cayenne
+2 973 0217 001 105;2 973 0217;;avenue louis pasteur;97300;Cayenne
+2 973 0217 001 106;2 973 0217;;avenue louis pasteur;97300;Cayenne
+2 973 0217 001 107;2 973 0217;;avenue louis pasteur;97300;Cayenne
+2 973 0217 001 109;2 973 0217;;avenue louis pasteur;97300;Cayenne
+2 973 0217 001 111;2 973 0217;;avenue louis pasteur;97300;Cayenne
+2 973 0217 001 113;2 973 0217;;avenue louis pasteur;97300;Cayenne
+2 973 0217 001 115;2 973 0217;;avenue louis pasteur;97300;Cayenne
+2 973 0217 001 117;2 973 0217;;avenue louis pasteur;97300;Cayenne
+2 973 0217 001 400;2 973 0217;;avenue louis pasteur;97300;Cayenne
+2 973 0217 001 401;2 973 0217;;avenue louis pasteur;97300;Cayenne
+2 973 0217 001 402;2 973 0217;;avenue louis pasteur;97300;Cayenne
+2 973 0217 001 403;2 973 0217;;avenue louis pasteur;97300;Cayenne
+2 973 0217 001 404;2 973 0217;;avenue louis pasteur;97300;Cayenne
+2 973 0217 001 405;2 973 0217;;avenue louis pasteur;97300;Cayenne
+2 973 0217 001 406;2 973 0217;;avenue louis pasteur;97300;Cayenne
+2 973 0217 001 407;2 973 0217;;avenue louis pasteur;97300;Cayenne
+2 973 0217 001 408;2 973 0217;;avenue louis pasteur;97300;Cayenne
+2 973 0217 001 409;2 973 0217;;avenue louis pasteur;97300;Cayenne
+2 973 0217 001 410;2 973 0217;;avenue louis pasteur;97300;Cayenne
+2 973 0217 001 411;2 973 0217;;avenue louis pasteur;97300;Cayenne
+2 973 0217 001 412;2 973 0217;;avenue louis pasteur;97300;Cayenne
+2 973 0217 001 413;2 973 0217;;avenue louis pasteur;97300;Cayenne
+2 973 0217 001 414;2 973 0217;;avenue louis pasteur;97300;Cayenne
+2 973 0217 001 415;2 973 0217;;avenue louis pasteur;97300;Cayenne
+2 973 0217 001 417;2 973 0217;;avenue louis pasteur;97300;Cayenne
+2 973 0217 001 418;2 973 0217;;avenue louis pasteur;97300;Cayenne
+2 973 0217 001 419;2 973 0217;;avenue louis pasteur;97300;Cayenne
+2 973 0217 001 420;2 973 0217;;avenue louis pasteur;97300;Cayenne
+3 985 0004 001 001;3 985 0004;;Nationale;97640;Sada
+3 985 0004 002 001;3 985 0004;;Nationale;97640;Sada
+3 985 0004 005 001;3 985 0004;;Nationale;97640;Sada
+3 985 0004 005 002;3 985 0004;;Nationale;97640;Sada
+3 985 0004 005 003;3 985 0004;;Nationale;97640;Sada
+3 987 0020 004 001;3 987 0020;;Avenue Bruat;98714;Papeete
